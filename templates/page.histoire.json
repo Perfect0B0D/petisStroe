@@ -1,0 +1,253 @@
+{
+  "sections": {
+    "slideshow_hero_JdWzpJ": {
+      "type": "slideshow-hero",
+      "blocks": {
+        "slide_QCjcmN": {
+          "type": "slide",
+          "settings": {
+            "desktop_bg_image": "shopify:\/\/shop_images\/PP-11.jpg",
+            "desktop_overlay_color": "#000000",
+            "desktop_overlay_opacity": 0,
+            "mobile_bg_image": "shopify:\/\/shop_images\/PP-11_3.png",
+            "mobile_overlay_color": "#000000",
+            "mobile_overlay_opacity": 0,
+            "display_sound_btn": false,
+            "sound_btn_color_scheme": "inverse",
+            "heading_prefix": "",
+            "heading": "L'histoire de Petiscope",
+            "title_highlight_color": "#6d388b",
+            "heading_size": "h1",
+            "heading_suffix": "",
+            "heading_prefix_size": "h4",
+            "text": "",
+            "button_label_1": "",
+            "button_link_1": "",
+            "button_style_secondary_1": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false,
+            "color_scheme": "background-1",
+            "full_page_width": false,
+            "content_max_width": "unlimited",
+            "content_pixels_max_width": 500,
+            "content_percentage_max_width": 50,
+            "content_vertical_position": "flex-end",
+            "content_horizontal_position": "center",
+            "content_text_alignment": "center",
+            "mobile_content_vertical_position": "flex-end",
+            "mobile_content_text_alignment": "center",
+            "custom_colors_text": "#ffffff",
+            "custom_colors_solid_button_background": "#dd1d1d",
+            "custom_colors_solid_button_text": "#ffffff",
+            "custom_colors_outline_button": "#dd1d1d"
+          }
+        }
+      },
+      "block_order": [
+        "slide_QCjcmN"
+      ],
+      "settings": {
+        "visibility": "always-display",
+        "min_desktop_height_type": "pixels",
+        "desktop_pixels_height": 600,
+        "min_mobile_height_type": "pixels",
+        "mobile_pixels_height": 400,
+        "transparent_header": false,
+        "transparent_header_text_color": "text",
+        "transparent_header_highlighted_link_color": "background-1",
+        "transparent_header_hover_link_color": "accent-1",
+        "transparent_header_logo": "main",
+        "hide_announcement_bars": false,
+        "slider_type": "loop",
+        "drag": false,
+        "autoplay": false,
+        "autoplay_speed": 10,
+        "enable_dots": true,
+        "dots_color_scheme": "background-1",
+        "padding_top": 50,
+        "padding_bottom": 50
+      }
+    },
+    "rich_text_pfPkrq": {
+      "type": "rich-text",
+      "blocks": {
+        "caption_fRUJYa": {
+          "type": "caption",
+          "settings": {
+            "caption": "Racontée par Nathalie Lemoine",
+            "text_style": "caption-with-letter-spacing",
+            "text_size": "medium"
+          }
+        }
+      },
+      "block_order": [
+        "caption_fRUJYa"
+      ],
+      "settings": {
+        "display_id": false,
+        "visibility": "always-display",
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "full_width": true,
+        "color_scheme": "custom",
+        "padding_top": 8,
+        "padding_bottom": 12,
+        "custom_colors_background": "#608c6c",
+        "custom_gradient_background": "",
+        "custom_colors_text": "#121212",
+        "custom_colors_solid_button_background": "#dd1d1d",
+        "custom_colors_solid_button_text": "#ffffff",
+        "custom_colors_outline_button": "#dd1d1d"
+      }
+    },
+    "multirow_4RtQUT": {
+      "type": "multirow",
+      "blocks": {
+        "row_UWAaXY": {
+          "type": "row",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/PP-11_1.webp",
+            "caption": "Qui suis-je ?",
+            "title": "La naissance du Petiscope",
+            "title_highlight_color": "#6d388b",
+            "text": "<p>Il y a un peu plus d'un an, en avril 2023, j'ai eu l'idée de créer le Petiscope. En tant qu'enseignante dans une école primaire à Lille et maman de deux enfants, Louane, 10 ans, et Augustin, 6 ans, j'ai toujours cherché à rendre l'apprentissage amusant et engageant. En classe, je privilégie un apprentissage actif et, quand le temps le permet, j'organise souvent des activités en plein air. Un jour, lors d'une leçon sur la composition des arbres et des feuilles, j'ai remarqué que mes élèves trouvaient cela abstrait et difficile à comprendre.<\/p>",
+            "button_label": "",
+            "button_link": "",
+            "atc_button_label": "",
+            "atc_product": "",
+            "atc_skip_cart": false
+          }
+        },
+        "row_gJ3GJy": {
+          "type": "row",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/review10.jpg",
+            "caption": "Les étapes à la loupe",
+            "title": "L'idée du Petiscope",
+            "title_highlight_color": "#6d388b",
+            "text": "<p>Pour résoudre ce problème, j'ai discuté avec d'autres enseignants et parents, et c'est ainsi que l'idée du Petiscope est née en juin 2023. Ce microscope miniature, facile à utiliser et transportable, permet aux enfants d'examiner de près les éléments de la nature. Voir les détails des feuilles et des insectes avec leurs propres yeux a rendu l'apprentissage beaucoup plus concret et captivant pour eux.<\/p>",
+            "button_label": "",
+            "button_link": "",
+            "atc_button_label": "",
+            "atc_product": "",
+            "atc_skip_cart": false
+          }
+        },
+        "row_gdd38A": {
+          "type": "row",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/review1.png",
+            "caption": "Un projet commun",
+            "title": "Les tests et les retours",
+            "title_highlight_color": "#6d388b",
+            "text": "<p>Nous avons passé l'été 2023 à tester le Petiscope avec mes élèves et mes propres enfants pour nous assurer qu'il répondait bien à leurs besoins. Les retours ont été incroyablement positifs : les enfants étaient plus engagés, plus curieux et surtout, plus actifs dans leurs apprentissages. Leur enthousiasme m'a confirmé que j'étais sur la bonne voie.<\/p>",
+            "button_label": "",
+            "button_link": "",
+            "atc_button_label": "",
+            "atc_product": "",
+            "atc_skip_cart": false
+          }
+        },
+        "row_TLabYV": {
+          "type": "row",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/steppies-pop-up-store_2.png",
+            "caption": "Le Petiscope",
+            "title": "Un projet en croissance",
+            "title_highlight_color": "#6d388b",
+            "text": "<p>Aujourd'hui, en mars 2024, le Petiscope fait partie intégrante de mes cours et de nombreux parents l'ont également adopté à la maison. Mon objectif reste le même : rendre l'apprentissage amusant et accessible à tous les enfants. Je suis heureuse de contribuer à éveiller la curiosité et l'intérêt pour la nature et les sciences chez les plus jeunes, tout en faisant partie de vos moments privilégiés. Du 1er au 7 octobre 2024, nous organisons un Pop-up Store à Lille pour présenter le Petiscope et les nouveaux accessoires disponibles. Ce sera aussi l'occasion d'échanger avec vous. Nous vous enverrons tous les détails par mail.<\/p>",
+            "button_label": "",
+            "button_link": "",
+            "atc_button_label": "",
+            "atc_product": "",
+            "atc_skip_cart": false
+          }
+        }
+      },
+      "block_order": [
+        "row_UWAaXY",
+        "row_gJ3GJy",
+        "row_gdd38A",
+        "row_TLabYV"
+      ],
+      "settings": {
+        "display_id": false,
+        "visibility": "always-display",
+        "image_height": "medium",
+        "desktop_image_width": "medium",
+        "heading_size": "h1",
+        "text_style": "body",
+        "button_style": "secondary",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "left",
+        "image_layout": "alternate-left",
+        "row_color_scheme": "background-1",
+        "section_color_scheme": "background-1",
+        "mobile_full_media_width": true,
+        "mobile_direction": "normal",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36,
+        "custom_colors_background": "#2e2a39",
+        "custom_gradient_background": "",
+        "custom_colors_text": "#ffffff",
+        "custom_colors_solid_button_background": "#dd1d1d",
+        "custom_colors_solid_button_text": "#ffffff",
+        "custom_colors_outline_button": "#dd1d1d",
+        "custom_section_colors_background": "#ffffff",
+        "custom_section_gradient_background": ""
+      }
+    },
+    "rich_text_DqB4fq": {
+      "type": "rich-text",
+      "blocks": {
+        "button_WPXnNB": {
+          "type": "button",
+          "settings": {
+            "button_label": "DECOUVRIR LE PETISCOPE",
+            "button_link": "shopify:\/\/products\/le-petiscope",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "button_WPXnNB"
+      ],
+      "settings": {
+        "display_id": false,
+        "visibility": "always-display",
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "full_width": true,
+        "color_scheme": "background-1",
+        "padding_top": 40,
+        "padding_bottom": 52,
+        "custom_colors_background": "#ffffff",
+        "custom_gradient_background": "",
+        "custom_colors_text": "#2e2a39",
+        "custom_colors_solid_button_background": "#dd1d1d",
+        "custom_colors_solid_button_text": "#ffffff",
+        "custom_colors_outline_button": "#dd1d1d"
+      }
+    },
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    }
+  },
+  "order": [
+    "slideshow_hero_JdWzpJ",
+    "rich_text_pfPkrq",
+    "multirow_4RtQUT",
+    "rich_text_DqB4fq",
+    "main"
+  ]
+}

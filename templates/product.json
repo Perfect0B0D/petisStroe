@@ -1,0 +1,1504 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-product",
+      "blocks": {
+        "trustpilot_stars_nNG8ty": {
+          "type": "trustpilot_stars",
+          "settings": {
+            "rating": 4.8,
+            "star_color": "#00b67a",
+            "bg_star_color": "#c8c8c8",
+            "star_symbol_color": "#ffffff",
+            "label": "<strong>Excellent 4.6 | <\/strong>287 avis vérifiés",
+            "size": 14,
+            "alignment": "flex-start",
+            "scroll_id": "#stamped-main-widget",
+            "margin_top": 15,
+            "margin_bottom": 6
+          }
+        },
+        "rating_stars_qr4XVk": {
+          "type": "rating_stars",
+          "disabled": true,
+          "settings": {
+            "rating": 4.6,
+            "star_color": "#608c6c",
+            "bg_stars_style": "full",
+            "bg_star_color": "#f3f3f3",
+            "label": "<strong>Excellent 4.6 | <\/strong>287 avis vérifiés",
+            "size": 14,
+            "alignment": "flex-start",
+            "scroll_id": "#stamped-main-widget",
+            "margin_top": 3,
+            "margin_bottom": 6
+          }
+        },
+        "custom_liquid_XcDaEk": {
+          "type": "custom_liquid",
+          "settings": {
+            "custom_liquid": "<style>\n    .badge, .badge-secondary {\n        display: inline-flex;\n        align-items: center;\n        background-color: #608C6C; \/* Fond vert *\/\n        color: #FFF8F0; \/* Couleur du texte crème *\/\n        padding: 2px 5px; \/* Padding réduit et homogène *\/\n        border-radius: 5px; \/* Bordure arrondie légèrement réduite *\/\n        font-size: 8px; \/* Taille du texte légèrement réduite *\/\n        font-weight: bold; \/* Texte en gras *\/\n        margin-right: 5px; \/* Espace entre les badges réduit *\/\n        margin-bottom: 5px; \/* Espacement sous les badges réduit *\/\n        border: 1px solid #FFF8F0; \/* Bordure crème homogène *\/\n    }\n\n    .badge img, .badge-secondary img {\n        width: 16px; \/* Taille de l'image légèrement réduite *\/\n        height: auto;\n        margin-right: 3px; \/* Espace homogène entre l'image et le texte *\/\n    }\n\n    .badge-container {\n        display: flex;\n        flex-wrap: wrap; \/* Permet de passer à la ligne si l'écran est trop petit *\/\n        align-items: center;\n    }\n<\/style>\n\n<div class=\"badge-container\">\n    <div class=\"badge\">\n        <img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0882\/1207\/8921\/files\/Capture_d_ecran_2024-08-31_a_15.44.21-removebg-preview.png?v=1725111994\" alt=\"Illustration 1\">\n        Le meilleur jouet éducatif\n    <\/div>\n    <div class=\"badge badge-secondary\">\n        <img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0882\/1207\/8921\/files\/Capture_d_ecran_2024-08-31_a_15.44.26-removebg-preview.png?v=1725111994\" alt=\"Illustration 2\">\n        Offre Jusqu'au 13\/10\n    <\/div>\n<\/div>"
+          }
+        },
+        "title": {
+          "type": "title",
+          "settings": {
+            "text_size": "h2",
+            "title_alignment": "left",
+            "uppercase_title": false,
+            "margin_top": 0,
+            "margin_bottom": 0
+          }
+        },
+        "text_46PwGL": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "mobile_text_size": 10,
+            "desktop_text_size": 13,
+            "alignment": "left",
+            "text_color": "#608c6c",
+            "text_1": "<strong>Le meilleur jouet éducatif pour les 3+<\/strong>",
+            "text_2": "",
+            "text_3": "",
+            "icon_scale": 120,
+            "icon_color": "#121212",
+            "icon_1": "",
+            "filled_icon_1": false,
+            "icon_2": "",
+            "filled_icon_2": false,
+            "icon_3": "check_circle",
+            "filled_icon_3": false,
+            "width": "fit-content",
+            "direction": "horizontal",
+            "column_gap": 0,
+            "enable_bg": true,
+            "bg_color": "#fff8f0",
+            "corner_radius": 25,
+            "padding": 1.5,
+            "border_size": 0,
+            "border_color": "#b7b7b7",
+            "margin_top": 3,
+            "margin_bottom": 9
+          }
+        },
+        "text_4VDUfT": {
+          "type": "text",
+          "settings": {
+            "mobile_text_size": 13,
+            "desktop_text_size": 16,
+            "alignment": "left",
+            "text_color": "#121212",
+            "text_1": "Le microscope devenu portable, pour les petits aventuriers en quête de découvertes !",
+            "text_2": "",
+            "text_3": "",
+            "icon_scale": 120,
+            "icon_color": "#121212",
+            "icon_1": "",
+            "filled_icon_1": false,
+            "icon_2": "check_circle",
+            "filled_icon_2": false,
+            "icon_3": "check_circle",
+            "filled_icon_3": false,
+            "width": "100%",
+            "direction": "horizontal",
+            "column_gap": 3,
+            "enable_bg": false,
+            "bg_color": "#f3f3f3",
+            "corner_radius": 40,
+            "padding": 3,
+            "border_size": 0,
+            "border_color": "#b7b7b7",
+            "margin_top": 9,
+            "margin_bottom": 18
+          }
+        },
+        "price": {
+          "type": "price",
+          "disabled": true,
+          "settings": {
+            "layout": "price_first",
+            "price_color": "accent-1",
+            "compare_price_color": "text",
+            "hide_sale_badge": false,
+            "margin_top": 9,
+            "margin_bottom": 15
+          }
+        },
+        "5fcc0428-e768-4cb7-bea3-eb0274198dd1": {
+          "type": "variant_picker",
+          "disabled": true,
+          "settings": {
+            "picker_types": "pills, dropdown, dropdown",
+            "custom_labels": "[name] - [selected]",
+            "swatches_size": "medium",
+            "swatches_border_radius": 100,
+            "swatches_custom_colors": "disabled",
+            "swatches_custom_colors_list": "#000000, #6D388B, #0000FF, #FFCC00",
+            "full_width_dropdowns": false,
+            "breaks_style": "normal",
+            "breaks_headline": "BUNDLE & SAVE",
+            "breaks_color_scheme": "accent-1",
+            "breaks_badges": "[empty], Most popular, [empty]",
+            "breaks_displayed_images": "variant_images",
+            "breaks_custom_images": "",
+            "breaks_image_width": 70,
+            "breaks_space_images": true,
+            "breaks_labels": "[name], [name], [name]",
+            "breaks_benefits": "[empty], Free Shipping, Free Shipping",
+            "breaks_captions": "Variant 1 caption, Variant 2 caption, Variant 3 caption",
+            "breaks_price_texts": "[price], [price], [price]",
+            "breaks_compare_price_texts": "[compare_price], [compare_price], [compare_price]",
+            "margin_top": 15,
+            "margin_bottom": 15
+          }
+        },
+        "04ba004e-2f54-4936-8b1c-8bcadf6573f6": {
+          "type": "quantity_selector",
+          "settings": {
+            "full_width_classic": false,
+            "enable_quantity_discounts": true,
+            "style": "normal",
+            "headline": "SOLDES D'AUTOMNE | STOCKS LIMITÉS",
+            "preselected": "option_2",
+            "update_prices": false,
+            "enable_variant_selectors": false,
+            "enable_variant_selectors_on_quantity_of_1": false,
+            "hide_pickers_overlay": true,
+            "pickers_label": "",
+            "image_width": 75,
+            "space_images": true,
+            "color_scheme": "accent-1",
+            "option_1_quantity": 1,
+            "option_1_badge": "",
+            "option_1_label": "[quantity] Petiscope",
+            "option_1_benefit": "",
+            "option_1_caption": "40% DE RÉDUCTION - Stocks limités !",
+            "option_1_percentage_off_text": "0",
+            "option_1_fixed_amount_off": "0",
+            "option_1_price_text": "[price]",
+            "option_1_compare_price": "compare_price",
+            "option_1_compare_price_text": "[compare_price]",
+            "option_2_quantity": 2,
+            "option_2_badge": "LE PLUS POPULAIRE",
+            "option_2_label": "[quantity] Petiscopes",
+            "option_2_benefit": "Prix à l'unité",
+            "option_2_caption": "Économisez 20% de plus",
+            "option_2_percentage_off_text": "21%",
+            "option_2_fixed_amount_off": "",
+            "option_2_price_text": "[price_each]",
+            "option_2_compare_price": "price",
+            "option_2_compare_price_text": "[compare_price_each]",
+            "option_3_quantity": 3,
+            "option_3_badge": "",
+            "option_3_label": "3 Petiscopes",
+            "option_3_benefit": "Prix à l'unité",
+            "option_3_caption": "Économisez 25% de plus",
+            "option_3_percentage_off_text": "25.01",
+            "option_3_fixed_amount_off": "0",
+            "option_3_price_text": "[price_each]",
+            "option_3_compare_price": "price",
+            "option_3_compare_price_text": "[compare_price_each]",
+            "option_4_quantity": 0,
+            "option_4_badge": "",
+            "option_4_label": "Paquet de [quantity]",
+            "option_4_benefit": "Prix à l'unité",
+            "option_4_caption": "Économisez 25% de PLUS",
+            "option_4_percentage_off_text": "0",
+            "option_4_fixed_amount_off": "0",
+            "option_4_price_text": "22,46€",
+            "option_4_compare_price": "compare_price",
+            "option_4_compare_price_text": "29,99€",
+            "margin_top": 15,
+            "margin_bottom": 9
+          }
+        },
+        "buy_buttons": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": false,
+            "skip_cart": false,
+            "uppercase_text": true,
+            "icon_scale": 105,
+            "icon_spacing": 6,
+            "display_price": false,
+            "enable_custom_color": true,
+            "custom_color": "#608c6c",
+            "enable_secondary_btn": false,
+            "secondary_btn_label": "Buy It Now",
+            "secondary_btn_enable_custom_color": false,
+            "secondary_btn_custom_color": "#dd1d1d",
+            "margin_top": 9,
+            "margin_bottom": 12
+          }
+        },
+        "custom_liquid_9MpYfK": {
+          "type": "custom_liquid",
+          "settings": {
+            "custom_liquid": "<div class=\"payment-section\" style=\"display: flex; flex-direction: column; align-items: center; margin-top: 20px; margin-bottom: 0px;\">\n  <!-- Conteneur des badges de paiement -->\n  <div style=\"display: flex; justify-content: center; gap: 5px; margin-bottom: 1px;\">\n    <img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0813\/6215\/7916\/files\/Capture_d_ecran_2024-04-24_a_14.25.03.png?v=1713961525\" alt=\"Shopify Pay\" style=\"height: 24px;\">\n    <img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0813\/6215\/7916\/files\/Capture_d_ecran_2024-04-24_a_14.26.44.png?v=1713961816\" alt=\"Apple Pay\" style=\"height: 24px;\">\n    <img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0813\/6215\/7916\/files\/Capture_d_ecran_2024-04-24_a_14.27.11.png?v=1713961816\" alt=\"Visa\" style=\"height: 24px;\">\n    <img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0813\/6215\/7916\/files\/Capture_d_ecran_2024-04-24_a_14.27.17.png?v=1713961816\" alt=\"MasterCard\" style=\"height: 24px;\">\n    <img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0813\/6215\/7916\/files\/Capture_d_ecran_2024-04-24_a_14.39.53.png?v=1713962451\" alt=\"Maestro\" style=\"height: 24px;\">\n    <img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0813\/6215\/7916\/files\/Capture_d_ecran_2024-04-24_a_14.27.22.png?v=1713961816\" alt=\"American Express\" style=\"height: 24px;\">\n    <img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0813\/6215\/7916\/files\/Capture_d_ecran_2024-04-24_a_14.40.08.png?v=1713962452g\" alt=\"Google Pay\" style=\"height: 24px;\">\n  <\/div>\n\n  <!-- Texte sécurisé avec icône -->\n  <div data-element-id=\"transactions-encrypted-container\" class=\"text-primary-80 flex text-sm\" style=\"align-items: center; display: flex;\">\n    <img alt=\"Blue padlock\" loading=\"lazy\" width=\"12\" height=\"17\" decoding=\"async\" data-nimg=\"1\" style=\"color:transparent; vertical-align: middle; margin-right: 6px;\" src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0813\/6215\/7916\/files\/cadenas_2.png?v=1713963355\">\n    <p style=\"margin-bottom: 8px; vertical-align: middle; font-size: 11px;\">Toutes les transactions sont sécurisées et cryptées<\/p>\n  <\/div>\n<\/div>"
+          }
+        },
+        "custom_liquid_wTKhfi": {
+          "type": "custom_liquid",
+          "settings": {
+            "custom_liquid": "<div style=\"display: flex; justify-content: center; align-items: center; background-color: #f5f5f5; padding: 10px; border-radius: 10px; margin: 10px;\">\n  <div style=\"display: flex; flex-direction: column; align-items: center;\">\n    <!-- Point avec effet de vague pulsant et texte de notification -->\n    <div style=\"display: flex; align-items: center; position: relative;\">\n      <span style=\"width: 10px; height: 10px; background-color: #608C6C; border-radius: 50%; margin-right: 10px; position: relative; z-index: 2;\"><\/span>\n      <p style=\"text-align: center; margin: 0; font-size: 14px;\">Stock faible ! Prêt à être expédié 🚚<\/p>\n      <span class=\"pulse-wave\" style=\"position: absolute; width: 10px; height: 10px; background-color: rgba(96, 140, 108, 0.5); border-radius: 50%; animation: pulse 1.5s infinite;\"><\/span>\n      <span class=\"pulse-wave\" style=\"position: absolute; width: 10px; height: 10px; background-color: rgba(96, 140, 108, 0.3); border-radius: 50%; animation: pulse2 1.5s infinite;\"><\/span>\n    <\/div>\n  <\/div>\n<\/div>\n\n<style>\n  @keyframes pulse {\n    0% {\n      transform: scale(1);\n      opacity: 0.8;\n    }\n    50% {\n      transform: scale(1.5);\n      opacity: 0.6;\n    }\n    100% {\n      transform: scale(2);\n      opacity: 0;\n    }\n  }\n\n  @keyframes pulse2 {\n    0% {\n      transform: scale(1);\n      opacity: 0.6;\n    }\n    50% {\n      transform: scale(2);\n      opacity: 0.4;\n    }\n    100% {\n      transform: scale(2.5);\n      opacity: 0;\n    }\n  }\n\n  .pulse-wave {\n    animation-timing-function: linear;\n  }\n<\/style>"
+          }
+        },
+        "icon_with_text_hRBYHe": {
+          "type": "icon_with_text",
+          "settings": {
+            "layout": "horizontal",
+            "icon_color": "accent-1",
+            "desktop_icon_size": 40,
+            "desktop_spacing": 12,
+            "desktop_text_size": 14,
+            "mobile_icon_size": 40,
+            "mobile_spacing": 10,
+            "mobile_text_size": 12,
+            "icon_1": "",
+            "icon_1_fill": false,
+            "image_1": "shopify:\/\/shop_images\/1_6c156e7c-efa3-4829-99bc-7bc9656a7adf.png",
+            "heading_1": "EXPÉDITION GRATUITE ET RAPIDE",
+            "icon_2": "undo",
+            "icon_2_fill": false,
+            "image_2": "shopify:\/\/shop_images\/2_f3a0f6f9-1c7e-48f2-9575-f54f2530b184.png",
+            "heading_2": "GARANTIE DE 60 JOURS",
+            "icon_3": "",
+            "icon_3_fill": false,
+            "image_3": "shopify:\/\/shop_images\/3_1.png",
+            "heading_3": "10 000+ ENFANTS HEUREUX",
+            "margin_top": 30,
+            "margin_bottom": 30
+          }
+        },
+        "e7a28cbe-03cb-4c9d-a2c4-0e3e76ffb3e5": {
+          "type": "sticky_atc",
+          "settings": {
+            "function": "add_to_cart",
+            "display_when": "after_scroll",
+            "button_label": "AJOUTER AU PANIER",
+            "enable_custom_btn_color": false,
+            "custom_btn_color": "#dd1d1d",
+            "color_scheme": "background-1",
+            "star_color": "#ffcc00",
+            "stars_label": "(xxxx Reviews)",
+            "picker_type": "combined",
+            "desktop_show_image": true,
+            "desktop_show_title": true,
+            "desktop_rating_stars": false,
+            "desktop_show_price": true,
+            "desktop_show_sale_badge": true,
+            "desktop_variant_picker": true,
+            "desktop_full_button_width": false,
+            "desktop_show_price_in_button": false,
+            "desktop_transparent_bg": false,
+            "mobile_show_image": false,
+            "mobile_show_title": true,
+            "mobile_rating_stars": false,
+            "mobile_show_price": true,
+            "mobile_show_sale_badge": false,
+            "mobile_variant_picker": false,
+            "mobile_full_button_width": false,
+            "mobile_show_price_in_button": false,
+            "mobile_transparent_bg": false
+          }
+        },
+        "de158e68-5d0d-4819-a625-e2dabdff87d1": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "Comment ça fonctionne ?",
+            "heading_size": "medium",
+            "icon": "",
+            "filled_icon": true,
+            "custom_icon": "shopify:\/\/shop_images\/4_eedc666d-bdd9-47ad-a0dc-98c4db9b68b6.png",
+            "collapse_icon": "carret",
+            "display_top_border": true,
+            "open": false,
+            "content": "<p>Bonne question ! Le Petiscope fonctionne grâce à <strong>deux lentilles incurvées à l'intérieur<\/strong>, précisément à la bonne longueur focale pour un grossissement maximum !<br\/><br\/>En réglant la distance entre les deux lentilles mais aussi l'objet lui-même, tu pourras obtenir une image nette et rapprochée.<br\/><br\/>La distance entre les lentilles <strong>se règle en tournant les deux molettes noires<\/strong>, l'une située tout en haut et l'autre un peu plus bas. Quant à la distance par rapport à l'objet, elle se règle, eh bien... avec tes mains !<br\/><br\/>Et oui, nous pouvons t'assurer que c'est bien mieux qu'une loupe!😅<\/p>",
+            "page": "",
+            "margin_top": 30,
+            "margin_bottom": 0
+          }
+        },
+        "collapsible_tab_LwwtKT": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "Quel est le grossissement ?",
+            "heading_size": "medium",
+            "icon": "Search",
+            "filled_icon": false,
+            "custom_icon": "shopify:\/\/shop_images\/5_fa2eb5d3-1638-4846-964c-c7506b2e8f38.png",
+            "collapse_icon": "carret",
+            "display_top_border": true,
+            "open": false,
+            "content": "<p>Le Petiscope peut zoomer de <strong>60 à 120 fois<\/strong> !<\/p>",
+            "page": "",
+            "margin_top": 24,
+            "margin_bottom": 0
+          }
+        },
+        "collapsible_tab_pmaHr9": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "Quel est l'âge recommandé ?",
+            "heading_size": "medium",
+            "icon": "",
+            "filled_icon": false,
+            "custom_icon": "shopify:\/\/shop_images\/6_d86e5730-b4f6-4345-b820-061bfc90eb7e.png",
+            "collapse_icon": "carret",
+            "display_top_border": true,
+            "open": false,
+            "content": "<p>Le Petiscope est conçu<strong> pour les enfants de 3 à 12 ans<\/strong>. <\/p><p>Cependant, nous avons été étonnés de voir certains petits prodiges de 2 ans l'utiliser, bien sûr avec un peu d'accompagnement !<\/p>",
+            "page": "",
+            "margin_top": 24,
+            "margin_bottom": 0
+          }
+        }
+      },
+      "block_order": [
+        "trustpilot_stars_nNG8ty",
+        "rating_stars_qr4XVk",
+        "custom_liquid_XcDaEk",
+        "title",
+        "text_46PwGL",
+        "text_4VDUfT",
+        "price",
+        "5fcc0428-e768-4cb7-bea3-eb0274198dd1",
+        "04ba004e-2f54-4936-8b1c-8bcadf6573f6",
+        "buy_buttons",
+        "custom_liquid_9MpYfK",
+        "custom_liquid_wTKhfi",
+        "icon_with_text_hRBYHe",
+        "e7a28cbe-03cb-4c9d-a2c4-0e3e76ffb3e5",
+        "de158e68-5d0d-4819-a625-e2dabdff87d1",
+        "collapsible_tab_LwwtKT",
+        "collapsible_tab_pmaHr9"
+      ],
+      "custom_css": [],
+      "settings": {
+        "display_id": false,
+        "enable_sticky_info": true,
+        "display_variant_image_first": false,
+        "disable_prepend": true,
+        "hide_variants": false,
+        "variant_image_filtering": "none",
+        "image_zoom": "none",
+        "arrows_color_scheme": "inverse",
+        "transparent_arrows": false,
+        "dots_color_scheme": "inverse",
+        "video_player": "play_btn",
+        "enable_video_looping": false,
+        "autoplay_videos_pause_btn": false,
+        "video_sound_btn": false,
+        "video_timeline": false,
+        "play_btn_color_scheme": "accent-1",
+        "sound_btn_color_scheme": "inverse",
+        "timeline_color": "accent-1",
+        "media_size": "medium",
+        "media_position": "left",
+        "gallery_layout": "thumbnail_slider",
+        "desktop_thumbnails_count": 5,
+        "constrain_to_viewport": true,
+        "media_fit": "contain",
+        "desktop_arrows_position": "hidden",
+        "mobile_media_corner_radius": 0,
+        "mobile_thumbnails": "hide",
+        "mobile_arrows_position": "sides",
+        "mobile_pagination": "dots_overlay",
+        "mobile_thumbnails_count": 5,
+        "mobile_spacing_pixels": 0,
+        "mobile_scroll_padding_percentage": 5,
+        "mobile_scroll_padding_pixels": 0,
+        "enable_mobile_outher_spacing": false,
+        "mobile_slides_container_width": 100,
+        "mobile_slides_inner_width": 100,
+        "trust_badge_position": "top-left",
+        "trust_badge_size": "medium",
+        "mobile_padding_top": 0,
+        "mobile_padding_bottom": 0,
+        "desktop_padding_top": 36,
+        "desktop_padding_bottom": 36
+      }
+    },
+    "rich_text_kcRkVq": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_LWEWke": {
+          "type": "heading",
+          "settings": {
+            "title": "Ils parlent de nous :",
+            "title_highlight_color": "#6d388b",
+            "heading_size": "h2"
+          }
+        }
+      },
+      "block_order": [
+        "heading_LWEWke"
+      ],
+      "disabled": true,
+      "settings": {
+        "display_id": false,
+        "visibility": "always-display",
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "full_width": true,
+        "color_scheme": "custom",
+        "padding_top": 36,
+        "padding_bottom": 0,
+        "custom_colors_background": "#fff8f0",
+        "custom_gradient_background": "",
+        "custom_colors_text": "#2e2a39",
+        "custom_colors_solid_button_background": "#dd1d1d",
+        "custom_colors_solid_button_text": "#ffffff",
+        "custom_colors_outline_button": "#dd1d1d"
+      }
+    },
+    "section_divider_rPK3rq": {
+      "type": "section-divider",
+      "settings": {
+        "visibility": "always-display",
+        "shape": "curved_1",
+        "flip_horizontal": false,
+        "flip_vertical": true,
+        "shape_color": "custom",
+        "custom_shape_color": "#ffffff",
+        "background_color": "custom",
+        "custom_background_color": "#fff8f0",
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "custom_liquid_bpeVQV": {
+      "type": "custom-liquid",
+      "settings": {
+        "display_id": false,
+        "visibility": "always-display",
+        "custom_liquid": "<style>\n    .custom-heading {\n        font-size: 19px; \/* Taille du texte *\/\n        font-weight: bold; \/* Texte en gras *\/\n        color: #333; \/* Couleur du texte *\/\n        background-color: #FFF8F0; \/* Fond beige *\/\n        padding: 10px; \/* Ajoute du padding autour du texte *\/\n        margin-bottom: -20px; \/* Espacement en dessous du texte *\/\n        text-align: center; \/* Texte centré *\/\n        position: relative; \/* Position relative pour appliquer le z-index *\/\n        z-index: 1000; \/* Met le titre en avant-plan *\/\n        border-radius: 5px; \/* Coins légèrement arrondis *\/\n    }\n<\/style>\n\n<div class=\"custom-heading\">\n    Ils racontent nos aventures !\n<\/div>",
+        "color_scheme": "background-1",
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "horizontal_ticker_ki4Eeq": {
+      "type": "horizontal-ticker",
+      "blocks": {
+        "image_q8qV6i": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/MAG2.png"
+          }
+        },
+        "image_AmcP3g": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/MAG1.png"
+          }
+        },
+        "image_HEREad": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Design_sans_titre_24.png"
+          }
+        },
+        "image_CgyHFa": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Femina_Logo_2.png"
+          }
+        },
+        "image_ArVxBh": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Maman_pour_la_vie_Logo_1.png"
+          }
+        },
+        "image_DBtYTm": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Milirose_Logo.png"
+          }
+        },
+        "image_LNzjri": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Femina_Logo_3.png"
+          }
+        },
+        "image_4H7HVW": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Nat_Geo_Kids.png"
+          }
+        }
+      },
+      "block_order": [
+        "image_q8qV6i",
+        "image_AmcP3g",
+        "image_HEREad",
+        "image_CgyHFa",
+        "image_ArVxBh",
+        "image_DBtYTm",
+        "image_LNzjri",
+        "image_4H7HVW"
+      ],
+      "settings": {
+        "visibility": "always-display",
+        "speed": 5,
+        "mobile_spacing": 40,
+        "desktop_spacing": 100,
+        "color_scheme": "custom",
+        "mobile_text_size": 16,
+        "desktop_text_size": 18,
+        "italic_text": false,
+        "uppercase_text": false,
+        "bold_text": false,
+        "mobile_image_height": 50,
+        "desktop_image_height": 60,
+        "hidden_products": "",
+        "enable_specific_display": false,
+        "displayed_products": "",
+        "mobile_padding_top": 36,
+        "mobile_padding_bottom": 40,
+        "desktop_padding_top": 16,
+        "desktop_padding_bottom": 16,
+        "custom_colors_background": "#fff8f0",
+        "custom_gradient_background": "",
+        "custom_colors_text": "#2e2a39"
+      }
+    },
+    "section_divider_r68HTt": {
+      "type": "section-divider",
+      "settings": {
+        "visibility": "always-display",
+        "shape": "curved_1",
+        "flip_horizontal": false,
+        "flip_vertical": false,
+        "shape_color": "custom",
+        "custom_shape_color": "#ffffff",
+        "background_color": "custom",
+        "custom_background_color": "#fff8f0",
+        "padding_top": 20,
+        "padding_bottom": 0
+      }
+    },
+    "section_group_cdmngD": {
+      "type": "section-group",
+      "settings": {
+        "visibility": "always-display",
+        "color_scheme": "custom",
+        "custom_background_color": "#ffffff",
+        "section_1_id": "#shopify-section-template--21515424661833__trustpilot_reviews_Kxq9JL",
+        "mobile_reverse_grid": false,
+        "section_2_id": "#shopify-section-template--21515424661833__image_slider_x4DYeX",
+        "desktop_full_page": false,
+        "spacing_desktop": 0,
+        "mobile_full_page": false,
+        "spacing_mobile": 0,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "section_divider_t9MRYK": {
+      "type": "section-divider",
+      "settings": {
+        "visibility": "always-display",
+        "shape": "curved_1",
+        "flip_horizontal": false,
+        "flip_vertical": true,
+        "shape_color": "custom",
+        "custom_shape_color": "#ffffff",
+        "background_color": "custom",
+        "custom_background_color": "#fff8f0",
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "icons_with_content_jbefDd": {
+      "type": "icons-with-content",
+      "blocks": {
+        "heading_Ra6hwm": {
+          "type": "heading",
+          "settings": {
+            "title": "Bien plus qu'un simple jouet",
+            "title_highlight_color": "#6d388b",
+            "heading_size": "h1"
+          }
+        },
+        "icon_4RixDK": {
+          "type": "icon",
+          "settings": {
+            "icon": "check_circle",
+            "filled_icon": false,
+            "image": "shopify:\/\/shop_images\/Design_sans_titre_37.png",
+            "title": "Rendez l'apprentissage amusant",
+            "text": "<p>Invitez vos enfants à découvrir les merveilles de la science et à se préparer pour les aventures de demain <\/p>"
+          }
+        },
+        "icon_rXdHFm": {
+          "type": "icon",
+          "settings": {
+            "icon": "check_circle",
+            "filled_icon": false,
+            "image": "shopify:\/\/shop_images\/Design_sans_titre_39.png",
+            "title": "Explorez la nature",
+            "text": "<p>Partez à l'aventure en plein air et révélez les trésors cachés de la nature !<\/p>"
+          }
+        },
+        "icon_p4RMnw": {
+          "type": "icon",
+          "settings": {
+            "icon": "check_circle",
+            "filled_icon": false,
+            "image": "shopify:\/\/shop_images\/Design_sans_titre_40.png",
+            "title": "Ultra simple !",
+            "text": "<p>Facile à utiliser pour tous les âges, prêt pour l'exploration en 30 secondes chrono<\/p>"
+          }
+        },
+        "icon_DkQHEV": {
+          "type": "icon",
+          "settings": {
+            "icon": "check_circle",
+            "filled_icon": false,
+            "image": "shopify:\/\/shop_images\/Design_sans_titre_41.png",
+            "title": "Moins d'écrans, plus d'aventures",
+            "text": "<p>Vos jeunes explorateurs seront tellement captivés par le petimonde qu'ils en oublieront leurs écrans <\/p>"
+          }
+        },
+        "image_ARxqgq": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/PP1.png",
+            "atc_product": "",
+            "atc_skip_cart": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_Ra6hwm",
+        "icon_4RixDK",
+        "icon_rXdHFm",
+        "icon_p4RMnw",
+        "icon_DkQHEV",
+        "image_ARxqgq"
+      ],
+      "settings": {
+        "display_id": false,
+        "visibility": "always-display",
+        "color_scheme": "custom",
+        "icon_size": "xxl",
+        "icon_position": "next-to-text",
+        "icon_color": "accent-1",
+        "icon_heading_size": "h3",
+        "icon_text_alignment": "left",
+        "icons_desktop_layout": "1-column",
+        "icons_mobile_layout": "1-column",
+        "desktop_content_alignment": "left",
+        "layout": "text_first",
+        "mobile_layout": "text_first",
+        "hide_content_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36,
+        "custom_colors_background": "#fff8f0",
+        "custom_gradient_background": "",
+        "custom_colors_text": "#2e2a39",
+        "custom_colors_solid_button_background": "#dd1d1d",
+        "custom_colors_solid_button_text": "#ffffff",
+        "custom_colors_outline_button": "#dd1d1d"
+      }
+    },
+    "rich_text_39eYm8": {
+      "type": "rich-text",
+      "blocks": {
+        "button_CAFJqE": {
+          "type": "button",
+          "settings": {
+            "button_label": "PRÊT POUR L'AVENTURE",
+            "button_link": "#",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "button_CAFJqE"
+      ],
+      "settings": {
+        "display_id": false,
+        "visibility": "always-display",
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "full_width": true,
+        "color_scheme": "custom",
+        "padding_top": 0,
+        "padding_bottom": 32,
+        "custom_colors_background": "#fff8f0",
+        "custom_gradient_background": "",
+        "custom_colors_text": "#2e2a39",
+        "custom_colors_solid_button_background": "#608c6c",
+        "custom_colors_solid_button_text": "#ffffff",
+        "custom_colors_outline_button": "#608c6c"
+      }
+    },
+    "section_divider_VfDCHm": {
+      "type": "section-divider",
+      "settings": {
+        "visibility": "always-display",
+        "shape": "curved_1",
+        "flip_horizontal": false,
+        "flip_vertical": false,
+        "shape_color": "custom",
+        "custom_shape_color": "#ffffff",
+        "background_color": "custom",
+        "custom_background_color": "#fff8f0",
+        "padding_top": 20,
+        "padding_bottom": 0
+      }
+    },
+    "custom_liquid_ejjFma": {
+      "type": "custom-liquid",
+      "settings": {
+        "display_id": false,
+        "visibility": "always-display",
+        "custom_liquid": "<section class=\"science-made-simple\" style=\"margin-top: -30px; margin-bottom: -30px; padding: 0 10px;\">\n  <div class=\"container\">\n    <div class=\"column\">\n      <h2 class=\"heading\">La Science en Mode Aventure<\/h2>\n      <p class=\"subheading\">Commencez l'exploration en 30 secondes avec ces 3 étapes super simples !<\/p>\n    <\/div>\n    <div class=\"row\">\n      <div class=\"column\">\n        <div class=\"step\">\n          <div class=\"step-image-container\">\n            <img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0882\/1207\/8921\/files\/9_f434aa4b-470a-4794-b0dd-df43492a2d24.png?v=1720852977\" alt=\"Allumez\" class=\"step-image\">\n          <\/div>\n          <div class=\"step-text\">\n            <h3 class=\"step-title\">1. Éclairez votre chemin<\/h3>\n            <p class=\"step-description\">Insérez 2 piles AAA et allumez les lumières d'exploration.<\/p>\n          <\/div>\n        <\/div>\n      <\/div>\n      <div class=\"column\">\n        <div class=\"step\">\n          <div class=\"step-image-container\">\n            <img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0882\/1207\/8921\/files\/10_53044bb9-8c8c-4868-8eb5-cff5d045527c.png?v=1720852977\" alt=\"Choisissez un objet\" class=\"step-image\">\n          <\/div>\n          <div class=\"step-text\">\n            <h3 class=\"step-title\">2. Choisissez votre trésor<\/h3>\n            <p class=\"step-description\">Trouvez chez vous des objets fascinants à explorer de plus près.<\/p>\n          <\/div>\n        <\/div>\n      <\/div>\n      <div class=\"column\">\n        <div class=\"step\">\n          <div class=\"step-image-container\">\n            <img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0882\/1207\/8921\/files\/11_44123fe5-5719-46ce-b193-f8e091186b52.png?v=1720852977\" alt=\"Ajustez\" class=\"step-image\">\n          <\/div>\n          <div class=\"step-text\">\n            <h3 class=\"step-title\">3. Plongez dans l'aventure<\/h3>\n            <p class=\"step-description\">Ajustez la molette de découverte pour une vue nette et claire.<\/p>\n          <\/div>\n        <\/div>\n      <\/div>\n    <\/div>\n    <div class=\"cta-text\">\n      <strong>Bravo ! Vous êtes prêt à révéler les éléments cachés 🔍<\/strong>\n    <\/div>\n  <\/div>\n<\/section>\n\n<style>\n  .science-made-simple {\n    padding: 20px 10px; \/* Réduit l'espace sur les côtés *\/\n    margin-top: 20px;\n    margin-bottom: 20px;\n  }\n  \n  .science-made-simple .container {\n    display: flex;\n    flex-direction: column;\n    align-items: center;\n  }\n  \n  .science-made-simple .row {\n    display: flex;\n    flex-wrap: wrap; \/* Permet de s'adapter à la taille de l'écran *\/\n    gap: 20px;\n    margin-top: 20px;\n  }\n  \n  .science-made-simple .column {\n    flex: 1;\n    max-width: 300px;\n    text-align: center;\n  }\n  \n  .science-made-simple .heading {\n    font-size: 2.5rem; \/* Augmente la taille du texte *\/\n    margin-bottom: 10px;\n  }\n  \n  .science-made-simple .subheading {\n    font-size: 1.5rem; \/* Augmente la taille du texte *\/\n    margin-bottom: 20px;\n  }\n  \n  .science-made-simple .step {\n    display: flex;\n    flex-direction: column;\n    align-items: center;\n    margin-bottom: 20px;\n  }\n  \n  .science-made-simple .step-image-container {\n    border-radius: 10px;\n    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);\n    overflow: hidden;\n    padding: 10px;\n    background: white;\n    margin-bottom: 10px;\n  }\n  \n  .science-made-simple .step-image {\n    width: 100%; \/* Image responsive *\/\n    max-width: 200px; \/* Limite la taille maximale de l'image *\/\n    height: auto; \/* Conserve le ratio de l'image *\/\n    border-radius: 10px;\n  }\n  \n  .science-made-simple .step-title {\n    font-size: 1.5rem; \/* Taille de texte augmentée *\/\n    margin-top: 10px;\n    white-space: nowrap;\n  }\n  \n  .science-made-simple .step-description {\n    font-size: 1.25rem; \/* Taille de texte augmentée *\/\n    margin-top: 5px;\n  }\n\n  .cta-text {\n    font-size: 1.18rem; \/* Taille de texte augmentée *\/\n    color: #000; \/* Texte noir *\/\n    font-weight: bold;\n    text-align: center;\n    margin-top: 10px;\n    margin-bottom: 20px;\n  }\n\n  @media (max-width: 767px) {\n    .science-made-simple .row {\n      flex-direction: column;\n    }\n    .science-made-simple .step {\n      flex-direction: row;\n      align-items: center;\n      text-align: left;\n      max-width: 100%;\n    }\n    .science-made-simple .step-image-container {\n      margin-right: 10px;\n      margin-bottom: 0;\n      flex-shrink: 0;\n    }\n    .science-made-simple .step-image {\n      width: 80px;\n      height: 80px;\n    }\n    .science-made-simple .step-text {\n      display: flex;\n      flex-direction: column;\n      justify-content: center;\n      max-width: calc(100% - 100px); \/* Adjusting for image and padding *\/\n    }\n  }\n\n  @media (min-width: 768px) {\n    .science-made-simple .row {\n      flex-direction: row;\n    }\n    .science-made-simple .step {\n      flex-direction: column;\n      align-items: center;\n      text-align: center;\n    }\n    .science-made-simple .step-image-container {\n      margin-right: 0;\n      margin-bottom: 10px;\n    }\n    .science-made-simple .step-image {\n      width: 200px;\n      height: 200px;\n    }\n  }\n<\/style>",
+        "color_scheme": "background-1",
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "section_divider_k7erLf": {
+      "type": "section-divider",
+      "settings": {
+        "visibility": "always-display",
+        "shape": "curved_1",
+        "flip_horizontal": false,
+        "flip_vertical": true,
+        "shape_color": "custom",
+        "custom_shape_color": "#ffffff",
+        "background_color": "custom",
+        "custom_background_color": "#fff8f0",
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "image_with_text_8HafBf": {
+      "type": "image-with-text",
+      "settings": {
+        "display_id": false,
+        "visibility": "desktop-hidden",
+        "video": "shopify:\/\/files\/videos\/Petiscope-enfant (576 x 576 px) (1).mp4",
+        "height": "adapt",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-1",
+        "section_color_scheme": "custom",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "mobile_full_media_width": false,
+        "mobile_direction": "normal",
+        "mobile_image_quanlity": "2",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 0,
+        "custom_colors_background": "#2e2a39",
+        "custom_gradient_background": "",
+        "custom_colors_text": "#ffffff",
+        "custom_colors_solid_button_background": "#dd1d1d",
+        "custom_colors_solid_button_text": "#ffffff",
+        "custom_colors_outline_button": "#dd1d1d",
+        "custom_section_colors_background": "#fff8f0",
+        "custom_section_gradient_background": ""
+      }
+    },
+    "image_with_text_KaapEW": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_L9CFay": {
+          "type": "heading",
+          "settings": {
+            "title": "Le <strong>compagnon idéal<\/strong> pour éveiller la curiosité de votre petit aventurier !",
+            "title_highlight_color": "#608c6c",
+            "heading_size": "h2"
+          }
+        },
+        "text_JyVD6c": {
+          "type": "text",
+          "settings": {
+            "text": "<p>\"Le Petiscope stimulera rapidement la curiosité des élèves ! C'est une activité divertissante et instructive, adaptée autant aux filles qu'aux garçons, qui leur ouvre les portes du monde microscopique.<\/p><p> Grâce à sa grande facilité d'utilisation, il suscite l'enthousiasme des enfants de tous âges et de tous niveaux scolaires. C'est un succès confirmé ! Si votre enfant est passionné par la science et la découverte, ce gadget fascinant est précisément ce dont il a besoin !\"<\/p><p>Florence Poirier - Enseignante du primaire<\/p>",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "heading_L9CFay",
+        "text_JyVD6c"
+      ],
+      "settings": {
+        "display_id": false,
+        "visibility": "mobile-hidden",
+        "video": "shopify:\/\/files\/videos\/Petiscope-enfant (576 x 576 px) (1).mp4",
+        "height": "adapt",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-2",
+        "section_color_scheme": "custom",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "mobile_full_media_width": false,
+        "mobile_direction": "normal",
+        "mobile_image_quanlity": "2",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36,
+        "custom_colors_background": "#2e2a39",
+        "custom_gradient_background": "",
+        "custom_colors_text": "#ffffff",
+        "custom_colors_solid_button_background": "#dd1d1d",
+        "custom_colors_solid_button_text": "#ffffff",
+        "custom_colors_outline_button": "#dd1d1d",
+        "custom_section_colors_background": "#fff8f0",
+        "custom_section_gradient_background": ""
+      }
+    },
+    "rich_text_W87cVX": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_brAPeD": {
+          "type": "heading",
+          "settings": {
+            "title": "Le <strong>compagnon idéal<\/strong> pour éveiller la curiosité de votre petit aventurier !",
+            "title_highlight_color": "#608c6c",
+            "heading_size": "h2"
+          }
+        },
+        "text_aCV6Mz": {
+          "type": "text",
+          "settings": {
+            "text": "<p>\"Le Petiscope stimulera rapidement la curiosité des élèves ! C'est une activité divertissante et instructive, adaptée autant aux filles qu'aux garçons, qui leur ouvre les portes du monde microscopique.<\/p><p> Grâce à sa grande facilité d'utilisation, il suscite l'enthousiasme des enfants de tous âges et de tous niveaux scolaires. C'est un succès confirmé ! Si votre enfant est passionné par la science et la découverte, ce gadget fascinant est précisément ce dont il a besoin !\"<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_brAPeD",
+        "text_aCV6Mz"
+      ],
+      "settings": {
+        "display_id": false,
+        "visibility": "desktop-hidden",
+        "desktop_content_position": "center",
+        "content_alignment": "left",
+        "full_width": true,
+        "color_scheme": "custom",
+        "padding_top": 24,
+        "padding_bottom": 12,
+        "custom_colors_background": "#fff8f0",
+        "custom_gradient_background": "",
+        "custom_colors_text": "#2e2a39",
+        "custom_colors_solid_button_background": "#dd1d1d",
+        "custom_colors_solid_button_text": "#ffffff",
+        "custom_colors_outline_button": "#dd1d1d"
+      }
+    },
+    "related-products": {
+      "type": "related-products",
+      "disabled": true,
+      "settings": {
+        "display_id": false,
+        "title": "You may also like",
+        "title_highlight_color": "#6d388b",
+        "heading_size": "h2",
+        "products_to_show": 4,
+        "columns_desktop": 4,
+        "color_scheme": "background-1",
+        "image_ratio": "adapt",
+        "show_secondary_image": false,
+        "show_vendor": false,
+        "show_rating": false,
+        "columns_mobile": "2",
+        "padding_top": 36,
+        "padding_bottom": 24
+      }
+    },
+    "custom_liquid_Qjxh6Y": {
+      "type": "custom-liquid",
+      "settings": {
+        "display_id": false,
+        "visibility": "desktop-hidden",
+        "custom_liquid": "<!DOCTYPE html>\n<html lang=\"fr\">\n<head>\n  <meta charset=\"UTF-8\">\n  <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n  <title>Author Citation<\/title>\n  <style>\n    body {\n      margin: 0;\n      padding: 0;\n      font-family: Arial, sans-serif;\n      background-color: #FFF8F0;\n    }\n\n    .author-citation-container {\n      width: 100%;\n    }\n\n    .author-citation {\n      display: flex;\n      align-items: center;\n      margin-top: -30px;\n      padding: 10px;\n      margin-left: 35px;\n      border-radius: 10px;\n      max-width: 1200px;\n      margin: auto;\n    }\n\n    .author-citation img {\n      width: 50px;\n      height: 50px;\n      border-radius: 50%;\n      margin-right: 10px;\n    }\n\n    .citation-text p {\n      margin: 0;\n    }\n\n    .citation-text .name {\n      font-size: 14px;\n      font-weight: bold;\n    }\n\n    .citation-text .title {\n      font-size: 12px;\n      color: #666;\n    }\n  <\/style>\n<\/head>\n<body>\n  <div class=\"author-citation-container\">\n    <div class=\"author-citation\">\n      <img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0739\/2660\/7160\/files\/AFTONBLADEToutlinergb.webp?v=1691086697\" alt=\"Florence Poiriet\">\n      <div class=\"citation-text\">\n        <p class=\"name\">Florence Poiriet<\/p>\n        <p class=\"title\">Enseignante à l'école primaire<\/p>\n      <\/div>\n    <\/div>\n  <\/div>\n<\/body>\n<\/html>",
+        "color_scheme": "background-2",
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "section_divider_Bdin7x": {
+      "type": "section-divider",
+      "settings": {
+        "visibility": "always-display",
+        "shape": "curved_1",
+        "flip_horizontal": false,
+        "flip_vertical": false,
+        "shape_color": "custom",
+        "custom_shape_color": "#ffffff",
+        "background_color": "custom",
+        "custom_background_color": "#fff8f0",
+        "padding_top": 20,
+        "padding_bottom": 0
+      }
+    },
+    "trustpilot_reviews_Kxq9JL": {
+      "type": "trustpilot-reviews",
+      "settings": {
+        "display_id": false,
+        "visibility": "always-display",
+        "color_scheme": "custom",
+        "desktop_content_position": "above",
+        "desktop_content_alignment": "center",
+        "title": "<strong>+10 000 aventuriers<\/strong> ont choisi Petiscope pour explorer le monde !",
+        "title_highlight_color": "#608c6c",
+        "heading_size": "h2",
+        "subtitle": "Excellent [rating] <strong>\/ 5<\/strong> [rating_stars]",
+        "subheading_rating_text": "<strong>4.6<\/strong>",
+        "subheading_mobile_text_size": 18,
+        "subheading_desktop_text_size": 20,
+        "subheading_font": "body",
+        "star_color": "#00b67a",
+        "bg_star_color": "#c8c8c8",
+        "star_symbol_color": "#ffffff",
+        "stars_rating": 4.5,
+        "text": "<p>Des milliers d'aventures ont commencé grâce à Petiscope !<\/p>",
+        "cards_border_radius": 16,
+        "card_alignment": "center",
+        "show_stars": true,
+        "cards_color_scheme": "background-2",
+        "type": "slide",
+        "autoplay": false,
+        "autoplay_speed": 5,
+        "arrows_color_scheme": "inverse",
+        "transparent_arrows": true,
+        "dots_color_scheme": "inverse",
+        "desktop_full_page": false,
+        "columns_desktop": 3,
+        "slider_desktop": false,
+        "per_move_desktop": 1,
+        "desktop_spacing": 24,
+        "desktop_side_padding": 0,
+        "desktop_padding_calc": true,
+        "desktop_adaptive_height": false,
+        "desktop_dots_position": "hidden",
+        "desktop_arrows_position": "sides",
+        "slider_mobile": false,
+        "enable_mobile_preview": false,
+        "mobile_adaptive_height": false,
+        "mobile_dots_position": "under",
+        "mobile_arrows_position": "under",
+        "padding_top": 36,
+        "padding_bottom": 0,
+        "custom_colors_background": "#ffffff",
+        "custom_gradient_background": "",
+        "custom_colors_text": "#2e2a39",
+        "custom_cards_colors_background": "#f3f3f3",
+        "custom_cards_gradient_background": "",
+        "custom_cards_colors_text": "#2e2a39"
+      }
+    },
+    "image_slider_x4DYeX": {
+      "type": "image-slider",
+      "blocks": {
+        "image_slide_rQ7wNY": {
+          "type": "image_slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Petiscope-packaging.png",
+            "link": "",
+            "description": "",
+            "desc_alignment": "center",
+            "desc_color_scheme": "background-2"
+          }
+        },
+        "image_slide_rDPxMd": {
+          "type": "image_slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Petiscope-enfant_1.png",
+            "link": "",
+            "description": "",
+            "desc_alignment": "center",
+            "desc_color_scheme": "background-2"
+          }
+        },
+        "image_slide_bXH6Yq": {
+          "type": "image_slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/photo_UGC_Caroline.jpg",
+            "link": "",
+            "description": "",
+            "desc_alignment": "center",
+            "desc_color_scheme": "background-2"
+          }
+        },
+        "image_slide_9PAAWK": {
+          "type": "image_slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Client-Petiscope_1.png",
+            "link": "",
+            "description": "",
+            "desc_alignment": "center",
+            "desc_color_scheme": "background-2"
+          }
+        },
+        "image_slide_JMyByF": {
+          "type": "image_slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Petiscope-enfant.png",
+            "link": "",
+            "description": "",
+            "desc_alignment": "center",
+            "desc_color_scheme": "background-2"
+          }
+        },
+        "image_slide_zCLheY": {
+          "type": "image_slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Petiscope-Photoclient.png",
+            "link": "",
+            "description": "",
+            "desc_alignment": "center",
+            "desc_color_scheme": "background-2"
+          }
+        },
+        "image_slide_pgddqr": {
+          "type": "image_slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Petiscope-enfant_2.png",
+            "link": "",
+            "description": "",
+            "desc_alignment": "center",
+            "desc_color_scheme": "background-2"
+          }
+        },
+        "image_slide_4HPTPz": {
+          "type": "image_slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Client-Petiscope.png",
+            "link": "",
+            "description": "",
+            "desc_alignment": "center",
+            "desc_color_scheme": "background-2"
+          }
+        }
+      },
+      "block_order": [
+        "image_slide_rQ7wNY",
+        "image_slide_rDPxMd",
+        "image_slide_bXH6Yq",
+        "image_slide_9PAAWK",
+        "image_slide_JMyByF",
+        "image_slide_zCLheY",
+        "image_slide_pgddqr",
+        "image_slide_4HPTPz"
+      ],
+      "settings": {
+        "display_id": false,
+        "visibility": "always-display",
+        "title": "",
+        "title_highlight_color": "#6d388b",
+        "heading_size": "h1",
+        "color_scheme": "custom",
+        "type": "slide",
+        "drag": "enabled",
+        "autoplay": true,
+        "autoplay_speed": 5,
+        "center_mode": false,
+        "arrows_color_scheme": "inverse",
+        "transparent_arrows": false,
+        "dots_color_scheme": "inverse",
+        "desktop_full_page": false,
+        "desktop_border_radius": 0,
+        "slides_desktop": 3,
+        "per_move_desktop": 1,
+        "desktop_spacing": 28,
+        "desktop_side_padding": 0,
+        "desktop_padding_calc": true,
+        "desktop_adaptive_height": false,
+        "desktop_dots_position": "under",
+        "desktop_arrows_position": "hidden",
+        "mobile_full_page": false,
+        "mobile_border_radius": 0,
+        "slides_mobile": 2,
+        "per_move_mobile": 1,
+        "mobile_spacing": 12,
+        "mobile_side_padding": 0,
+        "mobile_padding_calc": true,
+        "mobile_adaptive_height": false,
+        "mobile_dots_position": "under",
+        "mobile_arrows_position": "hidden",
+        "padding_top": 0,
+        "padding_bottom": 40,
+        "custom_colors_background": "#ffffff",
+        "custom_gradient_background": "",
+        "custom_colors_text": "#121212"
+      }
+    },
+    "comparison_table_XgQj8B": {
+      "type": "comparison-table",
+      "blocks": {
+        "row_gFTtaD": {
+          "type": "row",
+          "settings": {
+            "benefit": "Benefit",
+            "us": true,
+            "others": false
+          }
+        },
+        "row_YjXddC": {
+          "type": "row",
+          "settings": {
+            "benefit": "APPRENDRE LA SCIENCE",
+            "us": true,
+            "others": false
+          }
+        },
+        "row_JFrnq3": {
+          "type": "row",
+          "settings": {
+            "benefit": "ENCOURAGE À SORTIR",
+            "us": true,
+            "others": false
+          }
+        },
+        "row_VqVkXd": {
+          "type": "row",
+          "settings": {
+            "benefit": "AMUSANT PENDANT DES HEURES",
+            "us": true,
+            "others": false
+          }
+        },
+        "row_rbEkpW": {
+          "type": "row",
+          "settings": {
+            "benefit": "FACILE À UTILISER",
+            "us": true,
+            "others": true
+          }
+        },
+        "row_frYy6K": {
+          "type": "row",
+          "settings": {
+            "benefit": "PASSER DU TEMPS ENSEMBLE",
+            "us": true,
+            "others": false
+          }
+        },
+        "row_MK3kLT": {
+          "type": "row",
+          "settings": {
+            "benefit": "APPROUVÉ PAR LES ENSEIGNANTS",
+            "us": true,
+            "others": false
+          }
+        },
+        "row_MEgxN3": {
+          "type": "row",
+          "settings": {
+            "benefit": "Coût €€€",
+            "us": false,
+            "others": true
+          }
+        }
+      },
+      "block_order": [
+        "row_gFTtaD",
+        "row_YjXddC",
+        "row_JFrnq3",
+        "row_VqVkXd",
+        "row_rbEkpW",
+        "row_frYy6K",
+        "row_MK3kLT",
+        "row_MEgxN3"
+      ],
+      "settings": {
+        "display_id": false,
+        "visibility": "always-display",
+        "title": "Pourquoi choisir<strong> Petiscope<\/strong> ?",
+        "title_highlight_color": "#608c6c",
+        "heading_size": "h1",
+        "text": "<p>Associez le jeu aux merveilles de la science, et vous êtes prêts pour l'aventure !\"<\/p>",
+        "button_label": "",
+        "link": "",
+        "button_style_secondary": false,
+        "atc_button_label": "",
+        "atc_product": "",
+        "atc_skip_cart": false,
+        "color_scheme": "background-1",
+        "layout": "table_second",
+        "style": "classic",
+        "us_label": "[shop_name]",
+        "us_label_size": 18,
+        "logo": "shopify:\/\/shop_images\/petipas_4.png",
+        "logo_width": 115,
+        "mobile_logo_width": 85,
+        "others_label": "Les autres",
+        "others_label_size": 18,
+        "others_logo_width": 90,
+        "others_mobile_logo_width": 60,
+        "checkmark_style": "regular",
+        "checkmark_color": "#53af01",
+        "checkmark_bg_color": "#53af01",
+        "x_style": "regular",
+        "x_color": "#121212",
+        "x_bg_color": "#dbdbdb",
+        "opposite_icon_colors": "original",
+        "highlighted_color_scheme": "accent-1",
+        "highlighted_separator_opacity": 0,
+        "highlighted_overlay_opacity": 0,
+        "other_cells_color_scheme": "background-1",
+        "regular_separator_opacity": 10,
+        "regular_overlay_opacity": 0,
+        "minimalistic_border_opacity": 16,
+        "padding_top": 36,
+        "padding_bottom": 36,
+        "custom_colors_background": "#ffffff",
+        "custom_gradient_background": "",
+        "custom_colors_text": "#2e2a39",
+        "custom_colors_solid_button_background": "#dd1d1d",
+        "custom_colors_solid_button_text": "#ffffff",
+        "custom_colors_outline_button": "#dd1d1d",
+        "custom_colors_highlighted_background": "#2e2a39",
+        "custom_colors_highlighted_text": "#ffffff",
+        "custom_colors_others_background": "#ffffff",
+        "custom_colors_others_text": "#2e2a39"
+      }
+    },
+    "image_with_text_HBacGW": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_ncQpPM": {
+          "type": "heading",
+          "settings": {
+            "title": "60 jours de garantie aventure !",
+            "title_highlight_color": "#6d388b",
+            "heading_size": "h2"
+          }
+        },
+        "text_LpAjBn": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Nous croyons que le Petiscope va captiver vos petits explorateurs, et nous sommes sûrs que vous l'adorerez aussi ! Si, pour une raison quelconque, l'aventure ne les embarque pas, nous vous remboursons intégralement, selon notre politique de retour.<\/p>",
+            "text_style": "body"
+          }
+        },
+        "button_4UXzw9": {
+          "type": "button",
+          "settings": {
+            "button_label": "Je suis prêt pour l'aventure !",
+            "button_link": "#"
+          }
+        }
+      },
+      "block_order": [
+        "heading_ncQpPM",
+        "text_LpAjBn",
+        "button_4UXzw9"
+      ],
+      "settings": {
+        "display_id": false,
+        "visibility": "always-display",
+        "image": "shopify:\/\/shop_images\/PP-11_2.png",
+        "height": "adapt",
+        "content_layout": "no-overlap",
+        "color_scheme": "custom",
+        "section_color_scheme": "custom",
+        "desktop_image_width": "small",
+        "layout": "text_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "mobile_full_media_width": false,
+        "mobile_direction": "normal",
+        "mobile_image_quanlity": "2",
+        "mobile_content_alignment": "center",
+        "padding_top": 36,
+        "padding_bottom": 36,
+        "custom_colors_background": "#fff8f0",
+        "custom_gradient_background": "",
+        "custom_colors_text": "#121212",
+        "custom_colors_solid_button_background": "#608c6c",
+        "custom_colors_solid_button_text": "#ffffff",
+        "custom_colors_outline_button": "#608c6c",
+        "custom_section_colors_background": "#fff8f0",
+        "custom_section_gradient_background": ""
+      }
+    },
+    "collapsible_content_6NB3HX": {
+      "type": "collapsible-content",
+      "blocks": {
+        "collapsible_row_AkjrBj": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Est-il facile à casser ?",
+            "icon": "",
+            "filled_icon": false,
+            "row_content": "<p>Pas vraiment, le chassi est entièrement fabriqué en plastique ABS de première qualité. Les lentilles en verre à l'intérieur sont extrêmement épaisses et bien protégées.<\/p><p>On peut dire qu'il est très durable, à condition que vos enfants n'essaient pas de monter dessus pour danser pendant une longue période.<\/p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_ViKEze": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Peut-on l'utiliser avec des lunettes ?",
+            "icon": "",
+            "filled_icon": false,
+            "row_content": "<p>Les lunettes n'ont aucune incidence sur la distance focale du microscope. Les lunettes ne gênent pas non plus l'utilisation du microscope, à condition de ne pas les faire tomber en regardant vers le bas !<\/p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_VPjaf8": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Quel est le grossissement ?",
+            "icon": "",
+            "filled_icon": false,
+            "row_content": "<p>Le Petiscope peut zoomer de <strong>60 à 120 fois<\/strong> !<\/p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_hz9K96": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Quel est l'âge recommandé ?",
+            "icon": "",
+            "filled_icon": false,
+            "row_content": "<p>Le Petiscope est conçu<strong> pour les enfants de 3 à 12 ans<\/strong>. <\/p><p>Cependant, nous avons été étonnés de voir certains petits prodiges de 2 ans l'utiliser, bien sûr avec un peu d'accompagnement !<\/p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_xgKQYR": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Quel est le délai de livraison de ma commande ?",
+            "icon": "",
+            "filled_icon": false,
+            "row_content": "<p>Une fois la commande passée, notre équipe récupérera soigneusement vos Petiscope dans les nuages et les emballera avec amour. Veuillez donc prévoir jusqu'à 48 heures pour que notre équipe récupère et emballe votre commande. Votre colis sera ensuite gentiment envoyé par l'intermédiaire de nos fournisseurs de services d'expédition, ce qui prend généralement de 6 à 12 jours ouvrables.<\/p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_GRJfnC": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Que faire si je ne suis pas satisfait de ma commande ?",
+            "icon": "",
+            "filled_icon": false,
+            "row_content": "<p>Si vous n'êtes pas satisfait pour quelque raison que ce soit, nous offrons une garantie de satisfaction de 60 jours.<br\/><br\/>Contactez-nous et nous vous aiderons à effectuer votre retour\/remboursement !<\/p>",
+            "page": ""
+          }
+        }
+      },
+      "block_order": [
+        "collapsible_row_AkjrBj",
+        "collapsible_row_ViKEze",
+        "collapsible_row_VPjaf8",
+        "collapsible_row_hz9K96",
+        "collapsible_row_xgKQYR",
+        "collapsible_row_GRJfnC"
+      ],
+      "settings": {
+        "display_id": false,
+        "visibility": "always-display",
+        "caption": "",
+        "title": "Les réponses à vos questions.",
+        "title_highlight_color": "#6d388b",
+        "heading_size": "h2",
+        "heading_alignment": "center",
+        "layout": "none",
+        "color_scheme": "background-1",
+        "container_color_scheme": "background-2",
+        "open_first_collapsible_row": false,
+        "image_ratio": "adapt",
+        "desktop_layout": "image_second",
+        "row_heading_size": "medium",
+        "collapse_icon": "carret",
+        "display_top_border": true,
+        "padding_top": 36,
+        "padding_bottom": 36,
+        "custom_colors_background": "#ffffff",
+        "custom_gradient_background": "",
+        "custom_colors_text": "#2e2a39",
+        "custom_contaner_colors_background": "#ffffff",
+        "custom_container_gradient_background": "",
+        "custom_contaner_colors_text": "#2e2a39"
+      }
+    },
+    "171765933107bb1763": {
+      "type": "apps",
+      "blocks": {
+        "stamped_product_reviews_ugc_visual_gallery_HjjaTN": {
+          "type": "shopify:\/\/apps\/stamped-reviews\/blocks\/visual-gallery\/a103faaf-2125-4b0e-89fa-de5149736723",
+          "settings": {
+            "feed_type": "carousel",
+            "auto_play": false,
+            "color_star": "#608c6c",
+            "color_hover": "#f5f5f5",
+            "color_hover_opacity": 45,
+            "review_ids": "",
+            "product_ids": "",
+            "category": "",
+            "product_brand": "",
+            "tags": "",
+            "min_rating": "none",
+            "fill_empty": false,
+            "random": false,
+            "with_photos": false
+          }
+        },
+        "stamped_product_reviews_ugc_main_widget_iGXLLC": {
+          "type": "shopify:\/\/apps\/stamped-reviews\/blocks\/main-widget\/a103faaf-2125-4b0e-89fa-de5149736723",
+          "settings": {
+            "animation": true,
+            "tags_exclude": "",
+            "tags_include": "",
+            "search": "",
+            "linkify": true,
+            "use_metafields": false,
+            "sku_tagtype": "sku"
+          }
+        }
+      },
+      "block_order": [
+        "stamped_product_reviews_ugc_visual_gallery_HjjaTN",
+        "stamped_product_reviews_ugc_main_widget_iGXLLC"
+      ],
+      "settings": {
+        "display_id": false,
+        "include_margins": true
+      }
+    }
+  },
+  "order": [
+    "main",
+    "rich_text_kcRkVq",
+    "section_divider_rPK3rq",
+    "custom_liquid_bpeVQV",
+    "horizontal_ticker_ki4Eeq",
+    "section_divider_r68HTt",
+    "section_group_cdmngD",
+    "section_divider_t9MRYK",
+    "icons_with_content_jbefDd",
+    "rich_text_39eYm8",
+    "section_divider_VfDCHm",
+    "custom_liquid_ejjFma",
+    "section_divider_k7erLf",
+    "image_with_text_8HafBf",
+    "image_with_text_KaapEW",
+    "rich_text_W87cVX",
+    "related-products",
+    "custom_liquid_Qjxh6Y",
+    "section_divider_Bdin7x",
+    "trustpilot_reviews_Kxq9JL",
+    "image_slider_x4DYeX",
+    "comparison_table_XgQj8B",
+    "image_with_text_HBacGW",
+    "collapsible_content_6NB3HX",
+    "171765933107bb1763"
+  ]
+}

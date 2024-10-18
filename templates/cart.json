@@ -1,0 +1,43 @@
+{
+  "sections": {
+    "cart-items": {
+      "type": "main-cart-items",
+      "settings": {
+        "padding_top": 0,
+        "padding_bottom": 24
+      }
+    },
+    "cart-footer": {
+      "type": "main-cart-footer",
+      "blocks": {
+        "dec6ac13-eef3-4b4c-900a-e550eb977500": {
+          "type": "discount_field",
+          "disabled": true,
+          "settings": {
+            "placeholder": "Enter discount code",
+            "btn_label": "ADD",
+            "error_msg": "Please enter a discount code!"
+          }
+        },
+        "subtotal": {
+          "type": "subtotal",
+          "settings": {}
+        },
+        "buttons": {
+          "type": "buttons",
+          "settings": {}
+        }
+      },
+      "block_order": [
+        "dec6ac13-eef3-4b4c-900a-e550eb977500",
+        "subtotal",
+        "buttons"
+      ],
+      "settings": {}
+    }
+  },
+  "order": [
+    "cart-items",
+    "cart-footer"
+  ]
+}

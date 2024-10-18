@@ -1,0 +1,200 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "rich_text_gfMNBJ": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_h8YAnw": {
+          "type": "heading",
+          "settings": {
+            "title": "NOTRE GARANTIE",
+            "title_highlight_color": "#6D388B",
+            "heading_size": "h1"
+          }
+        },
+        "text_jNE9W3": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Partez à la découverte avec le Petiscope. Nous nous engageons à allumer la flamme de la curiosité dans le cœur de votre enfant, transformant chaque moment d'exploration en une aventure captivante. <\/p><p>Si, pour une raison quelconque, vous ne ressentez pas la merveille et la joie que le Petiscope apporte à votre famille, faites-le nous savoir, et nous veillerons à ce que votre expérience soit tout simplement magique, sans poser de questions.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_h8YAnw",
+        "text_jNE9W3"
+      ],
+      "settings": {
+        "display_id": false,
+        "visibility": "always-display",
+        "desktop_content_position": "center",
+        "content_alignment": "left",
+        "full_width": true,
+        "color_scheme": "background-1",
+        "padding_top": 40,
+        "padding_bottom": 52,
+        "custom_colors_background": "#FFFFFF",
+        "custom_gradient_background": "",
+        "custom_colors_text": "#2E2A39",
+        "custom_colors_solid_button_background": "#dd1d1d",
+        "custom_colors_solid_button_text": "#ffffff",
+        "custom_colors_outline_button": "#dd1d1d"
+      }
+    },
+    "9c121ec4-42cd-4c8e-82a2-935e073db7d7": {
+      "type": "collapsible-content",
+      "blocks": {
+        "template--19742927749415__9c121ec4-42cd-4c8e-82a2-935e073db7d7-16889993318614e07a-0": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Ça a l'air sympa ! Est-ce que ça vaut le coup ?",
+            "icon": "",
+            "filled_icon": false,
+            "row_content": "<p>Nous dirions que cela en vaut absolument la peine, et nos clients seraient probablement d'accord ! C'est très amusant et super polyvalent. Il peut être utilisé à la maison, dans le jardin, lors de promenades en forêt (notre préféré !) ou même à l'école ! <\/p><p>En plus, vous pouvez observer pratiquement tout ce que vous voulez ! C'est une approche passionnante de l'apprentissage, qui peut souvent sembler ennuyeuse ou monotone lorsqu'on l'étudie dans un manuel. Qui sait, peut-être avez-vous un scientifique en herbe à la maison ;)<\/p>",
+            "page": ""
+          }
+        },
+        "template--19742927749415__9c121ec4-42cd-4c8e-82a2-935e073db7d7-16889993318614e07a-1": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Quel est le grossissement ?",
+            "icon": "",
+            "filled_icon": false,
+            "row_content": "<p>Le Petiscope peut zoomer de 60 à 120 fois !<\/p>",
+            "page": ""
+          }
+        },
+        "template--19742927749415__9c121ec4-42cd-4c8e-82a2-935e073db7d7-16889993318614e07a-2": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Peut-il être utilisé avec des lunettes ?",
+            "icon": "",
+            "filled_icon": false,
+            "row_content": "<p>Les lunettes n'ont aucun impact sur la distance focale du microscope. De plus, vous n'aurez aucun problème avec les lunettes pendant l'utilisation, il suffit de faire attention à ne pas les faire tomber en regardant en bas !<\/p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_t7atVg": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Quel est l'âge recommandé ?",
+            "icon": "",
+            "filled_icon": false,
+            "row_content": "<p>Le Petiscope convient aux enfants âgés de 4 à 12 ans et plus. Veillez toujours à surveiller vos enfants lorsqu'ils jouent.<\/p>",
+            "page": ""
+          }
+        },
+        "template--19742927749415__9c121ec4-42cd-4c8e-82a2-935e073db7d7-16889993318614e07a-3": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Est-il facile à casser ?",
+            "icon": "",
+            "filled_icon": false,
+            "row_content": "<p>Pas vraiment, le chassi est entièrement fabriqué en plastique ABS de première qualité. Les lentilles en verre à l'intérieur sont extrêmement épaisses et bien protégées.<\/p><p>On peut dire qu'il est très durable, à condition que vos enfants n'essaient pas de monter dessus pour danser pendant une longue période.<\/p>",
+            "page": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--19742927749415__9c121ec4-42cd-4c8e-82a2-935e073db7d7-16889993318614e07a-0",
+        "template--19742927749415__9c121ec4-42cd-4c8e-82a2-935e073db7d7-16889993318614e07a-1",
+        "template--19742927749415__9c121ec4-42cd-4c8e-82a2-935e073db7d7-16889993318614e07a-2",
+        "collapsible_row_t7atVg",
+        "template--19742927749415__9c121ec4-42cd-4c8e-82a2-935e073db7d7-16889993318614e07a-3"
+      ],
+      "settings": {
+        "display_id": false,
+        "visibility": "always-display",
+        "caption": "Question fréquemment posée",
+        "title": "Petiscope",
+        "title_highlight_color": "#6D388B",
+        "heading_size": "h0",
+        "heading_alignment": "center",
+        "layout": "none",
+        "color_scheme": "custom",
+        "container_color_scheme": "custom",
+        "open_first_collapsible_row": false,
+        "image_ratio": "adapt",
+        "desktop_layout": "image_second",
+        "row_heading_size": "medium",
+        "collapse_icon": "carret",
+        "display_top_border": true,
+        "padding_top": 36,
+        "padding_bottom": 36,
+        "custom_colors_background": "#fff8f0",
+        "custom_gradient_background": "",
+        "custom_colors_text": "#2E2A39",
+        "custom_contaner_colors_background": "#fff8f0",
+        "custom_container_gradient_background": "",
+        "custom_contaner_colors_text": "#2E2A39"
+      }
+    },
+    "collapsible_content_QRfbxf": {
+      "type": "collapsible-content",
+      "blocks": {
+        "collapsible_row_3DPK9C": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Quel est le délai de livraison de ma commande ?",
+            "icon": "",
+            "filled_icon": false,
+            "row_content": "<p>Une fois la commande passée, notre équipe récupérera soigneusement vos Petiscope dans les nuages et les emballera avec amour. Veuillez donc prévoir jusqu'à 48 heures pour que notre équipe récupère et emballe votre commande. Votre colis sera ensuite gentiment envoyé par l'intermédiaire de nos fournisseurs de services d'expédition, ce qui prend généralement de 6 à 12 jours ouvrables.<\/p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_yM8Ptr": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Que faire si je ne suis pas satisfait de ma commande ?",
+            "icon": "",
+            "filled_icon": false,
+            "row_content": "<p>Si vous n'êtes pas satisfait pour quelque raison que ce soit, nous offrons une garantie de satisfaction de 30 jours.<br\/><br\/>Contactez-nous et nous vous aiderons à effectuer votre retour\/remboursement !<\/p>",
+            "page": ""
+          }
+        }
+      },
+      "block_order": [
+        "collapsible_row_3DPK9C",
+        "collapsible_row_yM8Ptr"
+      ],
+      "settings": {
+        "display_id": false,
+        "visibility": "always-display",
+        "caption": "",
+        "title": "Livraison et retours",
+        "title_highlight_color": "#6D388B",
+        "heading_size": "h0",
+        "heading_alignment": "center",
+        "layout": "row",
+        "color_scheme": "background-1",
+        "container_color_scheme": "custom",
+        "open_first_collapsible_row": false,
+        "image_ratio": "adapt",
+        "desktop_layout": "image_second",
+        "row_heading_size": "medium",
+        "collapse_icon": "carret",
+        "display_top_border": true,
+        "padding_top": 36,
+        "padding_bottom": 36,
+        "custom_colors_background": "#fff8f0",
+        "custom_gradient_background": "",
+        "custom_colors_text": "#2E2A39",
+        "custom_contaner_colors_background": "#fff8f0",
+        "custom_container_gradient_background": "",
+        "custom_contaner_colors_text": "#2E2A39"
+      }
+    }
+  },
+  "order": [
+    "main",
+    "rich_text_gfMNBJ",
+    "9c121ec4-42cd-4c8e-82a2-935e073db7d7",
+    "collapsible_content_QRfbxf"
+  ]
+}

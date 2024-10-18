@@ -1,0 +1,20 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-blog",
+      "settings": {
+        "visibility": "always-display",
+        "layout": "grid",
+        "show_image": true,
+        "image_height": "adapt",
+        "show_date": false,
+        "show_author": true,
+        "padding_top": 0,
+        "padding_bottom": 64
+      }
+    }
+  },
+  "order": [
+    "main"
+  ]
+}

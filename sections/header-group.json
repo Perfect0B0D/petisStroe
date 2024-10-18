@@ -1,0 +1,189 @@
+{
+  "name": "t:sections.header.name",
+  "type": "header",
+  "sections": {
+    "2c2ec774-3430-481f-b927-e9c035b9d24e": {
+      "type": "horizontal-ticker",
+      "blocks": {
+        "sections--18060430639399__2c2ec774-3430-481f-b927-e9c035b9d24e-1679250655d32e639c-0": {
+          "type": "text",
+          "settings": {
+            "title": "WELCOME!"
+          }
+        },
+        "sections--18060430639399__2c2ec774-3430-481f-b927-e9c035b9d24e-1679250655d32e639c-1": {
+          "type": "text",
+          "settings": {
+            "title": "SITEWIDE SALE"
+          }
+        },
+        "sections--18060430639399__2c2ec774-3430-481f-b927-e9c035b9d24e-1679250655d32e639c-2": {
+          "type": "text",
+          "settings": {
+            "title": "USE CODE X FOR X% OFF!"
+          }
+        }
+      },
+      "block_order": [
+        "sections--18060430639399__2c2ec774-3430-481f-b927-e9c035b9d24e-1679250655d32e639c-0",
+        "sections--18060430639399__2c2ec774-3430-481f-b927-e9c035b9d24e-1679250655d32e639c-1",
+        "sections--18060430639399__2c2ec774-3430-481f-b927-e9c035b9d24e-1679250655d32e639c-2"
+      ],
+      "disabled": true,
+      "settings": {
+        "visibility": "always-display",
+        "speed": 3,
+        "mobile_spacing": 60,
+        "desktop_spacing": 100,
+        "color_scheme": "accent-1",
+        "mobile_text_size": 16,
+        "desktop_text_size": 18,
+        "italic_text": false,
+        "uppercase_text": false,
+        "bold_text": false,
+        "mobile_image_height": 26,
+        "desktop_image_height": 40,
+        "hidden_products": "",
+        "enable_specific_display": false,
+        "displayed_products": "",
+        "mobile_padding_top": 12,
+        "mobile_padding_bottom": 12,
+        "desktop_padding_top": 16,
+        "desktop_padding_bottom": 16,
+        "custom_colors_background": "#ffffff",
+        "custom_gradient_background": "",
+        "custom_colors_text": "#2e2a39"
+      }
+    },
+    "fe1c8c67-b84c-4466-a515-70df3134c1c0": {
+      "type": "announcement-bar",
+      "blocks": {
+        "sections--21450414096679__fe1c8c67-b84c-4466-a515-70df3134c1c0-announcement-1": {
+          "type": "announcement",
+          "settings": {
+            "text": "Soldes d'automne : -40% sur le Petiscope",
+            "text_alignment": "center",
+            "mobile_text_size": 14,
+            "desktop_text_size": 17,
+            "icon": "",
+            "filled_icon": false,
+            "mobile_icon_size": 20,
+            "desktop_icon_size": 26,
+            "desktop_layout": "horizontal",
+            "mobile_layout": "horizontal",
+            "hidden_products": "",
+            "enable_specific_display": false,
+            "displayed_products": ""
+          }
+        },
+        "announcement_fJp8KJ": {
+          "type": "announcement",
+          "disabled": true,
+          "settings": {
+            "text": "Livraison offerte en France",
+            "text_alignment": "center",
+            "mobile_text_size": 14,
+            "desktop_text_size": 17,
+            "icon": "",
+            "filled_icon": false,
+            "mobile_icon_size": 17,
+            "desktop_icon_size": 26,
+            "desktop_layout": "horizontal",
+            "mobile_layout": "horizontal",
+            "hidden_products": "",
+            "enable_specific_display": false,
+            "displayed_products": ""
+          }
+        },
+        "announcement_EbKcXj": {
+          "type": "announcement",
+          "disabled": true,
+          "settings": {
+            "text": "Garantie retour de 30 jours",
+            "text_alignment": "center",
+            "mobile_text_size": 14,
+            "desktop_text_size": 17,
+            "icon": "",
+            "filled_icon": false,
+            "mobile_icon_size": 20,
+            "desktop_icon_size": 26,
+            "desktop_layout": "horizontal",
+            "mobile_layout": "horizontal",
+            "hidden_products": "",
+            "enable_specific_display": false,
+            "displayed_products": ""
+          }
+        }
+      },
+      "block_order": [
+        "sections--21450414096679__fe1c8c67-b84c-4466-a515-70df3134c1c0-announcement-1",
+        "announcement_fJp8KJ",
+        "announcement_EbKcXj"
+      ],
+      "settings": {
+        "columns_desktop": 1,
+        "columns_mobile": 1,
+        "desktop_spacing": 0,
+        "mobile_spacing": 0,
+        "show_separator": false,
+        "color_scheme": "accent-1",
+        "slider_mobile": true,
+        "slider_desktop": true,
+        "type": "loop",
+        "autoplay": true,
+        "autoplay_speed": 4,
+        "hidden_products": "",
+        "enable_specific_display": false,
+        "displayed_products": "",
+        "padding_top": 6,
+        "padding_bottom": 4,
+        "custom_colors_background": "#dd1d1d",
+        "custom_gradient_background": "",
+        "custom_colors_text": "#ffffff"
+      }
+    },
+    "custom_liquid_CCbJbE": {
+      "type": "custom-liquid",
+      "settings": {
+        "display_id": false,
+        "visibility": "always-display",
+        "custom_liquid": "<div class=\"countdown-banner\">\n    <div class=\"countdown-banner-content\">\n        <div class=\"countdown-text\">\n            Fin de l'offre dans :\n        <\/div>\n        <div class=\"countdown-timer\">\n            <div class=\"time-block\">\n                <span class=\"time-block__num js-timer-days\">00<\/span>\n                <span class=\"time-block__unit\">Jours<\/span>\n            <\/div>\n            <span class=\"time-colon\">:<\/span>\n            <div class=\"time-block\">\n                <span class=\"time-block__num js-timer-hours\">00<\/span>\n                <span class=\"time-block__unit\">Heures<\/span>\n            <\/div>\n            <span class=\"time-colon\">:<\/span>\n            <div class=\"time-block\">\n                <span class=\"time-block__num js-timer-minutes\">00<\/span>\n                <span class=\"time-block__unit\">Minutes<\/span>\n            <\/div>\n            <span class=\"time-colon\">:<\/span>\n            <div class=\"time-block\">\n                <span class=\"time-block__num js-timer-seconds\">00<\/span>\n                <span class=\"time-block__unit\">Secondes<\/span>\n            <\/div>\n        <\/div>\n    <\/div>\n<\/div>\n\n<style>\n.countdown-banner {\n    background-color: #FFF8F0; \/* Couleur de fond *\/\n    color: #000; \/* Couleur du texte *\/\n    text-align: center;\n    width: 100%;\n    padding: 15px 20px; \/* Ajustement du padding *\/\n    box-sizing: border-box;\n}\n\n.countdown-banner-content {\n    display: flex;\n    align-items: center;\n    justify-content: center;\n    gap: 0.5rem; \/* Réduction de l'espacement pour coller à l'exemple *\/\n    max-width: 100%; \/* Permet au contenu de s'étendre sur toute la largeur disponible *\/\n    flex-wrap: nowrap; \/* Empêche le passage à la ligne *\/\n}\n\n.countdown-text {\n    font-weight: 700;\n    font-size: clamp(14px, 2vw, 18px); \/* Taille adaptative pour correspondre à l'exemple *\/\n    display: flex;\n    align-items: center; \/* Alignement vertical avec les chiffres *\/\n    white-space: nowrap; \/* Empêche le texte de passer à la ligne *\/\n    flex-shrink: 0; \/* Empêche la réduction du texte sur mobile *\/\n}\n\n.countdown-timer {\n    display: flex;\n    align-items: center;\n    justify-content: center;\n    gap: clamp(0.2rem, 1vw, 0.5rem); \/* Réduction de l'espacement pour une meilleure aération *\/\n}\n\n.time-block {\n    display: flex;\n    flex-direction: column;\n    align-items: center;\n    white-space: nowrap; \/* Empêche les unités de passer à la ligne *\/\n}\n\n.time-block__num {\n    font-size: clamp(12px, 3vw, 16px); \/* Taille des chiffres ajustée pour correspondre à l'exemple *\/\n    font-weight: 700;\n    line-height: 1;\n}\n\n.time-block__unit {\n    font-size: clamp(8px, 1.5vw, 10px); \/* Taille des unités légèrement plus petite *\/\n    margin-top: 2px; \/* Ajustement pour l'alignement des unités *\/\n}\n\n.time-colon {\n    font-weight: 700;\n    font-size: clamp(12px, 2.5vw, 16px); \/* Taille des deux-points pour correspondre aux chiffres *\/\n    padding: 0 3px; \/* Ajustement pour espacer les deux-points *\/\n    display: flex;\n    align-items: center;\n    justify-content: center;\n}\n\n@media (max-width: 750px) {\n    .countdown-banner-content {\n        flex-wrap: nowrap; \/* Assure que tout reste sur une seule ligne *\/\n        gap: 0.2rem; \/* Réduction de l'espacement sur mobile *\/\n    }\n\n    .countdown-text {\n        font-size: clamp(12px, 4vw, 14px); \/* Réduction de la taille du texte sur mobile pour s'assurer qu'il reste sur une ligne *\/\n    }\n}\n<\/style>\n\n<script type=\"text\/javascript\">\n(function () {\n    function startTimer() {\n        const second = 1000,\n            minute = second * 60,\n            hour = minute * 60,\n            countDown = new Date('2024-10-13T23:59:59').getTime(),\n            wrapper = document.querySelector('.countdown-timer');\n\n        const interval = setInterval(function () {\n            let now = new Date().getTime(),\n                distance = countDown - now,\n                days = Math.floor(distance \/ (hour * 24)),\n                hours = Math.floor((distance % (hour * 24)) \/ hour),\n                minutes = Math.floor((distance % hour) \/ minute),\n                seconds = Math.floor((distance % minute) \/ second);\n\n            wrapper.querySelector('.js-timer-days').innerText = ('0' + days).slice(-2);\n            wrapper.querySelector('.js-timer-hours').innerText = ('0' + hours).slice(-2);\n            wrapper.querySelector('.js-timer-minutes').innerText = ('0' + minutes).slice(-2);\n            wrapper.querySelector('.js-timer-seconds').innerText = ('0' + seconds).slice(-2);\n\n            if (distance < 0) {\n                clearInterval(interval);\n                wrapper.querySelector('.js-timer-days').innerText = '00';\n                wrapper.querySelector('.js-timer-hours').innerText = '00';\n                wrapper.querySelector('.js-timer-minutes').innerText = '00';\n                wrapper.querySelector('.js-timer-seconds').innerText = '00';\n            }\n        }, second);\n    }\n\n    startTimer();\n})();\n<\/script>",
+        "color_scheme": "background-1",
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "header": {
+      "type": "header",
+      "settings": {
+        "sticky_header_type": "on-scroll-up",
+        "show_line_separator": false,
+        "color_scheme": "background-1",
+        "logo_link": "\/",
+        "logo_position": "middle-left",
+        "menu": "main-menu",
+        "menu_type_desktop": "dropdown",
+        "highlight_active_link": true,
+        "highlighted_link_color_scheme": "accent-1",
+        "products_mega_menu_links": "",
+        "products_mega_menu_display_collection_products": true,
+        "products_mega_menu_display_collection_images": true,
+        "products_mega_menu_display_collection_images_on_mobile": true,
+        "mobile_menu_title": "Menu",
+        "secondary_menu": "",
+        "menu_color_scheme": "background-1",
+        "mobile_logo_position": "center",
+        "display_search": false,
+        "margin_bottom": 0,
+        "padding_top": 20,
+        "padding_bottom": 20
+      }
+    }
+  },
+  "order": [
+    "2c2ec774-3430-481f-b927-e9c035b9d24e",
+    "fe1c8c67-b84c-4466-a515-70df3134c1c0",
+    "custom_liquid_CCbJbE",
+    "header"
+  ]
+}

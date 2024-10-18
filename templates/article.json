@@ -1,0 +1,44 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-article",
+      "blocks": {
+        "featured_image": {
+          "type": "featured_image",
+          "settings": {
+            "image_height": "large"
+          }
+        },
+        "title": {
+          "type": "title",
+          "settings": {
+            "blog_show_date": false,
+            "blog_show_author": true
+          }
+        },
+        "content": {
+          "type": "content",
+          "settings": {}
+        },
+        "share": {
+          "type": "share",
+          "settings": {
+            "share_label": "Partager"
+          }
+        }
+      },
+      "block_order": [
+        "featured_image",
+        "title",
+        "content",
+        "share"
+      ],
+      "settings": {
+        "page_width": "normal"
+      }
+    }
+  },
+  "order": [
+    "main"
+  ]
+}

@@ -1,0 +1,594 @@
+{
+  "sections": {
+    "image_with_text_zhiC8U": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_QfpcDq": {
+          "type": "heading",
+          "settings": {
+            "title": "Bienvenue dans un monde passionnant !",
+            "title_highlight_color": "#6d388b",
+            "heading_size": "h2"
+          }
+        },
+        "text_nV7kQf": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Nous avons pris le microscope et rassemblé toute sa puissance dans un appareil portable facile à utiliser.<\/p><p>Le cadeau idéal pour votre petit scientifique !<\/p>",
+            "text_style": "body"
+          }
+        },
+        "rating_stars_KyV9QV": {
+          "type": "rating_stars",
+          "settings": {
+            "rating": 4.8,
+            "star_color": "#ffcc00",
+            "bg_stars_style": "full",
+            "bg_star_color": "#ececec",
+            "label": "+100 avis vérifiés",
+            "size": 17,
+            "scroll_id": ""
+          }
+        },
+        "button_F8Ljmi": {
+          "type": "button",
+          "settings": {
+            "button_label": "VOIR LE PETISCOPE",
+            "button_link": "shopify:\/\/products\/le-petiscope"
+          }
+        }
+      },
+      "block_order": [
+        "heading_QfpcDq",
+        "text_nV7kQf",
+        "rating_stars_KyV9QV",
+        "button_F8Ljmi"
+      ],
+      "settings": {
+        "display_id": false,
+        "visibility": "always-display",
+        "image": "shopify:\/\/shop_images\/5f834f51-4a57-4b7c-8f35-e6636504f9ff.png",
+        "height": "adapt",
+        "content_layout": "no-overlap",
+        "color_scheme": "custom",
+        "section_color_scheme": "custom",
+        "desktop_image_width": "medium",
+        "layout": "text_first",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "left",
+        "mobile_full_media_width": false,
+        "mobile_direction": "reverse",
+        "mobile_image_quanlity": "2",
+        "mobile_content_alignment": "center",
+        "padding_top": 36,
+        "padding_bottom": 36,
+        "custom_colors_background": "#fff8f0",
+        "custom_gradient_background": "",
+        "custom_colors_text": "#2e2a39",
+        "custom_colors_solid_button_background": "#608c6c",
+        "custom_colors_solid_button_text": "#ffffff",
+        "custom_colors_outline_button": "#2e2a39",
+        "custom_section_colors_background": "#fff8f0",
+        "custom_section_gradient_background": ""
+      }
+    },
+    "custom_liquid_QJfCAQ": {
+      "type": "custom-liquid",
+      "settings": {
+        "display_id": false,
+        "visibility": "always-display",
+        "custom_liquid": "<section class=\"js-cluster-wrapper zpa-layout-one-column-173-v1-dynamic zpa-layout-one-column-173 zpa-is-new-structure zp ba-15164135\" data-id=\"15164135\" id=\"15164135\" style=\"background-color: #608C6C; margin-top: 0px; margin-bottom: 0px; padding: 30px 0;\">\n  <div class=\"js-cluster zp cac-15164135\">\n    <div class=\"zp raw-3948605\">\n      <div class=\"zp ra-3948605 center-xs flex-row\">\n        <div class=\"zpa-flex--column zpa-flex xs-12 sm-12 lg-12 md-12\">\n          <div class=\"zp ca-8170868\">\n            <div class=\"zpa-word-wrap disable-internal-link zpa-el-text zp ea-12591523\" style=\"text-align: center; width: 95%; margin: 0 auto;\">\n              <h1 class=\"zp ts-h1 tsl-1\" style=\"color: white; font-size: 24px; margin-top: 10px; margin-bottom: 10px;\">Le jouet parfait dont vos enfants ne se lasseront jamais !<\/h1>\n            <\/div>\n          <\/div>\n        <\/div>\n      <\/div>\n    <\/div>\n  <\/div>\n<\/section>",
+        "color_scheme": "background-1",
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "image_slider_tt4b9h": {
+      "type": "image-slider",
+      "blocks": {
+        "video_slide_n6KVg3": {
+          "type": "video_slide",
+          "settings": {
+            "video": "shopify:\/\/files\/videos\/V-1.mp4",
+            "loop": true,
+            "muted_autoplay": true,
+            "display_play_btn": true,
+            "btn_animation": false,
+            "btn_color_scheme": "accent-1",
+            "display_sound_btn": false,
+            "sound_btn_color_scheme": "inverse",
+            "display_timeline": false,
+            "timeline_color": "accent-1",
+            "description": "",
+            "desc_alignment": "center",
+            "desc_color_scheme": "background-2"
+          }
+        },
+        "video_slide_R6mtLb": {
+          "type": "video_slide",
+          "settings": {
+            "video": "shopify:\/\/files\/videos\/944425a6c0f8468a9206c51a5f25ec84.mov",
+            "loop": true,
+            "muted_autoplay": true,
+            "display_play_btn": true,
+            "btn_animation": false,
+            "btn_color_scheme": "accent-1",
+            "display_sound_btn": false,
+            "sound_btn_color_scheme": "inverse",
+            "display_timeline": false,
+            "timeline_color": "accent-1",
+            "description": "",
+            "desc_alignment": "center",
+            "desc_color_scheme": "background-2"
+          }
+        },
+        "video_slide_AJLXhf": {
+          "type": "video_slide",
+          "settings": {
+            "video": "shopify:\/\/files\/videos\/b99879c06294487488a61427b69cd14c.mp4",
+            "loop": true,
+            "muted_autoplay": true,
+            "display_play_btn": true,
+            "btn_animation": false,
+            "btn_color_scheme": "accent-1",
+            "display_sound_btn": false,
+            "sound_btn_color_scheme": "inverse",
+            "display_timeline": false,
+            "timeline_color": "accent-1",
+            "description": "",
+            "desc_alignment": "center",
+            "desc_color_scheme": "background-2"
+          }
+        },
+        "video_slide_PeDiUF": {
+          "type": "video_slide",
+          "settings": {
+            "video": "shopify:\/\/files\/videos\/Design sans titre (9).mp4",
+            "loop": true,
+            "muted_autoplay": true,
+            "display_play_btn": true,
+            "btn_animation": false,
+            "btn_color_scheme": "accent-1",
+            "display_sound_btn": false,
+            "sound_btn_color_scheme": "inverse",
+            "display_timeline": false,
+            "timeline_color": "accent-1",
+            "description": "",
+            "desc_alignment": "center",
+            "desc_color_scheme": "background-2"
+          }
+        }
+      },
+      "block_order": [
+        "video_slide_n6KVg3",
+        "video_slide_R6mtLb",
+        "video_slide_AJLXhf",
+        "video_slide_PeDiUF"
+      ],
+      "settings": {
+        "display_id": false,
+        "visibility": "always-display",
+        "title": "La solution TOUT-EN-UN pour apprendre & s'amuser !",
+        "title_highlight_color": "#6d388b",
+        "heading_size": "h2",
+        "color_scheme": "background-1",
+        "type": "slide",
+        "drag": "enabled",
+        "autoplay": false,
+        "autoplay_speed": 5,
+        "center_mode": false,
+        "arrows_color_scheme": "inverse",
+        "transparent_arrows": false,
+        "dots_color_scheme": "inverse",
+        "desktop_full_page": false,
+        "desktop_border_radius": 0,
+        "slides_desktop": 3,
+        "per_move_desktop": 1,
+        "desktop_spacing": 28,
+        "desktop_side_padding": 0,
+        "desktop_padding_calc": true,
+        "desktop_adaptive_height": false,
+        "desktop_dots_position": "under",
+        "desktop_arrows_position": "hidden",
+        "mobile_full_page": false,
+        "mobile_border_radius": 0,
+        "slides_mobile": 2,
+        "per_move_mobile": 1,
+        "mobile_spacing": 12,
+        "mobile_side_padding": 0,
+        "mobile_padding_calc": true,
+        "mobile_adaptive_height": false,
+        "mobile_dots_position": "under",
+        "mobile_arrows_position": "hidden",
+        "padding_top": 36,
+        "padding_bottom": 36,
+        "custom_colors_background": "#ffffff",
+        "custom_gradient_background": "",
+        "custom_colors_text": "#121212"
+      }
+    },
+    "trustpilot_reviews_GALfV3": {
+      "type": "trustpilot-reviews",
+      "blocks": {
+        "column_FUFGMf": {
+          "type": "column",
+          "settings": {
+            "star_color": "#00b67a",
+            "bg_star_color": "#c8c8c8",
+            "star_symbol_color": "#ffffff",
+            "stars_rating": 5,
+            "title": "",
+            "text": "<p><\/p><p>Ce Petiscope change la donne ! C'est l'apprentissage pratique par excellence, et mes enfants en sont fous ! Ils découvrent de nouvelles choses chaque jour, et je ne pourrais pas être plus heureuse de leurs progrès...<\/p>",
+            "author_avatar": "shopify:\/\/shop_images\/PP-11_1.webp",
+            "author": "<strong>Lisa M.<\/strong>"
+          }
+        },
+        "column_N8mB9X": {
+          "type": "column",
+          "settings": {
+            "star_color": "#00b67a",
+            "bg_star_color": "#c8c8c8",
+            "star_symbol_color": "#ffffff",
+            "stars_rating": 5,
+            "title": "",
+            "text": "<p><\/p><p>En tant que parent, il est très important pour moi que mes enfants, Sarah et Liam, aient des jouets à la fois amusants et éducatifs. Ce Petiscope remplit toutes les conditions ! Il a suscité un véritable intérêt pour les sciences chez mes enfants, et je ne pourrais pas être plus reconnaissante.<\/p>",
+            "author_avatar": "shopify:\/\/shop_images\/PP-12.webp",
+            "author": "<strong>Jessica L.<\/strong>"
+          }
+        },
+        "column_qByh3G": {
+          "type": "column",
+          "settings": {
+            "star_color": "#00b67a",
+            "bg_star_color": "#c8c8c8",
+            "star_symbol_color": "#ffffff",
+            "stars_rating": 5,
+            "title": "",
+            "text": "<p><\/p><p>Ma fille Olivia a toujours été curieuse du monde qui l'entoure, et ce Petiscope a été l'outil parfait pour satisfaire sa curiosité. Elle ramène constamment à la maison les nouveaux trésors qu'elle a découverts, et c'est incroyable de voir sa passion pour l'apprentissage.<\/p>",
+            "author_avatar": "shopify:\/\/shop_images\/PP-13.webp",
+            "author": "<strong>Samantha B.<\/strong>"
+          }
+        }
+      },
+      "block_order": [
+        "column_FUFGMf",
+        "column_N8mB9X",
+        "column_qByh3G"
+      ],
+      "settings": {
+        "display_id": false,
+        "visibility": "always-display",
+        "color_scheme": "background-1",
+        "desktop_content_position": "above",
+        "desktop_content_alignment": "center",
+        "title": "Utilisé quotidiennement par plus de 6 000 enfants",
+        "title_highlight_color": "#6d388b",
+        "heading_size": "h2",
+        "subtitle": "Excellent [rating] <strong>\/ 5<\/strong> [rating_stars]",
+        "subheading_rating_text": "<strong>4.8<\/strong>",
+        "subheading_mobile_text_size": 18,
+        "subheading_desktop_text_size": 20,
+        "subheading_font": "body",
+        "star_color": "#00b67a",
+        "bg_star_color": "#c8c8c8",
+        "star_symbol_color": "#ffffff",
+        "stars_rating": 5,
+        "text": "",
+        "cards_border_radius": 16,
+        "card_alignment": "center",
+        "show_stars": true,
+        "cards_color_scheme": "background-2",
+        "type": "slide",
+        "autoplay": false,
+        "autoplay_speed": 5,
+        "arrows_color_scheme": "inverse",
+        "transparent_arrows": true,
+        "dots_color_scheme": "inverse",
+        "desktop_full_page": false,
+        "columns_desktop": 3,
+        "slider_desktop": false,
+        "per_move_desktop": 1,
+        "desktop_spacing": 24,
+        "desktop_side_padding": 0,
+        "desktop_padding_calc": true,
+        "desktop_adaptive_height": false,
+        "desktop_dots_position": "under",
+        "desktop_arrows_position": "sides",
+        "slider_mobile": true,
+        "enable_mobile_preview": false,
+        "mobile_adaptive_height": false,
+        "mobile_dots_position": "under",
+        "mobile_arrows_position": "under",
+        "padding_top": 36,
+        "padding_bottom": 36,
+        "custom_colors_background": "#ffffff",
+        "custom_gradient_background": "",
+        "custom_colors_text": "#2e2a39",
+        "custom_cards_colors_background": "#f3f3f3",
+        "custom_cards_gradient_background": "",
+        "custom_cards_colors_text": "#2e2a39"
+      }
+    },
+    "icons_with_content_3TMKKw": {
+      "type": "icons-with-content",
+      "blocks": {
+        "image_pP4rPK": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Packagingexterieurpetiscope.jpg",
+            "atc_product": "",
+            "atc_skip_cart": false
+          }
+        },
+        "heading_QRrT8D": {
+          "type": "heading",
+          "settings": {
+            "title": "Le Petiscope",
+            "title_highlight_color": "#6d388b",
+            "heading_size": "h1"
+          }
+        },
+        "text_6T9XXF": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Ressentez la puissance d'un microscope, simplifiée en un seul appareil portable. Le cadeau idéal pour votre petit scientifique !<\/p>",
+            "text_style": "body"
+          }
+        },
+        "icon_4raRQp": {
+          "type": "icon",
+          "settings": {
+            "icon": "check_circle",
+            "filled_icon": false,
+            "image": "shopify:\/\/shop_images\/1_3a2b7a66-a138-450e-a307-37b3146371ed.png",
+            "title": "Apprendre en s'amusant",
+            "text": ""
+          }
+        },
+        "icon_EgJHbq": {
+          "type": "icon",
+          "settings": {
+            "icon": "check_circle",
+            "filled_icon": false,
+            "image": "shopify:\/\/shop_images\/5_fa2eb5d3-1638-4846-964c-c7506b2e8f38.png",
+            "title": "Découvrir la nature",
+            "text": ""
+          }
+        },
+        "icon_DGkdBC": {
+          "type": "icon",
+          "settings": {
+            "icon": "check_circle",
+            "filled_icon": false,
+            "image": "shopify:\/\/shop_images\/Design_sans_titre_40.png",
+            "title": "Prêt à l'emploi en 30 secondes",
+            "text": ""
+          }
+        },
+        "icon_wtBT4V": {
+          "type": "icon",
+          "settings": {
+            "icon": "check_circle",
+            "filled_icon": false,
+            "image": "shopify:\/\/shop_images\/Design_sans_titre_37.png",
+            "title": "Apprentissage actif",
+            "text": ""
+          }
+        },
+        "button_kWpLgQ": {
+          "type": "button",
+          "settings": {
+            "button_label": "ACHETER LE PETISCOPE",
+            "button_link": "shopify:\/\/products\/le-petiscope",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "image_pP4rPK",
+        "heading_QRrT8D",
+        "text_6T9XXF",
+        "icon_4raRQp",
+        "icon_EgJHbq",
+        "icon_DGkdBC",
+        "icon_wtBT4V",
+        "button_kWpLgQ"
+      ],
+      "settings": {
+        "display_id": false,
+        "visibility": "always-display",
+        "color_scheme": "custom",
+        "icon_size": "xxl",
+        "icon_position": "next-to-title",
+        "icon_color": "accent-1",
+        "icon_heading_size": "h3",
+        "icon_text_alignment": "left",
+        "icons_desktop_layout": "1-column",
+        "icons_mobile_layout": "1-column",
+        "desktop_content_alignment": "left",
+        "layout": "image_first",
+        "mobile_layout": "text_first",
+        "hide_content_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36,
+        "custom_colors_background": "#fff8f0",
+        "custom_gradient_background": "",
+        "custom_colors_text": "#2e2a39",
+        "custom_colors_solid_button_background": "#608c6c",
+        "custom_colors_solid_button_text": "#ffffff",
+        "custom_colors_outline_button": "#608c6c"
+      }
+    },
+    "icon_bar_MKB9DA": {
+      "type": "icon-bar",
+      "blocks": {
+        "column_aRqGpH": {
+          "type": "column",
+          "settings": {
+            "icon": "check_circle",
+            "filled_icon": false,
+            "image": "shopify:\/\/shop_images\/3_1.png",
+            "title": "",
+            "text": "<p><strong>Rendre l'apprentissage amusant<\/strong><\/p>"
+          }
+        },
+        "column_GLxqAe": {
+          "type": "column",
+          "settings": {
+            "icon": "check_circle",
+            "filled_icon": false,
+            "image": "shopify:\/\/shop_images\/2_09d5e7ac-5aa1-41f1-b820-5003ba75b11f.png",
+            "title": "",
+            "text": "<p><strong>Explorer le Petit Monde<\/strong><\/p>"
+          }
+        },
+        "column_gJeybV": {
+          "type": "column",
+          "settings": {
+            "icon": "check_circle",
+            "filled_icon": false,
+            "image": "shopify:\/\/shop_images\/Design_sans_titre_55.png",
+            "title": "",
+            "text": "<p><strong>Approuvé par les enfants<\/strong><\/p>"
+          }
+        },
+        "column_GjiC3f": {
+          "type": "column",
+          "settings": {
+            "icon": "check_circle",
+            "filled_icon": false,
+            "image": "shopify:\/\/shop_images\/4_c1bc8270-b0ff-4b33-9163-9ff65b971b6d.png",
+            "title": "",
+            "text": "<p><strong>Apprentissage actif<\/strong><\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "column_aRqGpH",
+        "column_GLxqAe",
+        "column_gJeybV",
+        "column_GjiC3f"
+      ],
+      "settings": {
+        "display_id": false,
+        "visibility": "always-display",
+        "title": "Approuvé par les parents",
+        "title_highlight_color": "#6d388b",
+        "heading_size": "h2",
+        "text": "",
+        "color_scheme": "background-1",
+        "icon_layout": "vertical",
+        "icon_size": "large",
+        "icon_color": "accent-1",
+        "cards_color_scheme": "background-1",
+        "type": "slide",
+        "autoplay": false,
+        "autoplay_speed": 5,
+        "arrows_color_scheme": "inverse",
+        "transparent_arrows": true,
+        "dots_color_scheme": "inverse",
+        "desktop_full_page": false,
+        "columns_desktop": 4,
+        "slider_desktop": false,
+        "per_move_desktop": 1,
+        "desktop_spacing": 40,
+        "desktop_side_padding": 0,
+        "desktop_padding_calc": true,
+        "desktop_adaptive_height": false,
+        "desktop_dots_position": "under",
+        "desktop_arrows_position": "sides",
+        "columns_mobile": "2",
+        "slider_mobile": false,
+        "enable_mobile_preview": false,
+        "mobile_adaptive_height": false,
+        "mobile_dots_position": "hidden",
+        "mobile_arrows_position": "hidden",
+        "padding_top": 36,
+        "padding_bottom": 36,
+        "custom_colors_background": "#ffffff",
+        "custom_gradient_background": "",
+        "custom_colors_text": "#2e2a39",
+        "custom_cards_colors_background": "#f3f3f3",
+        "custom_cards_gradient_background": "",
+        "custom_cards_colors_text": "#2e2a39"
+      }
+    },
+    "image_with_text_WxYWxj": {
+      "type": "image-with-text",
+      "blocks": {
+        "caption_A6hexx": {
+          "type": "caption",
+          "settings": {
+            "caption": "L'histoire de Petiscope",
+            "text_style": "caption-with-letter-spacing",
+            "text_size": "medium"
+          }
+        },
+        "heading_eGxyHX": {
+          "type": "heading",
+          "settings": {
+            "title": "Notre mission",
+            "title_highlight_color": "#6d388b",
+            "heading_size": "h1"
+          }
+        },
+        "text_w89kKB": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Pour faire simple, nous voulons rendre l'apprentissage amusant ! En tant qu'enseignante et maman, j'ai remarqué que les enfants trouvaient souvent l'apprentissage ennuyeux et abstrait. <\/p><p>Pour y remédier, j'ai créé le Petiscope, un microscope miniature, facile à utiliser et transportable, qui rend l'apprentissage plus concret et captivant. Nous avons testé ce produit avec des enfants pour nous assurer qu'il répond à leurs besoins, et les résultats ont été incroyablement positifs.<\/p><p> Nous aimons faire partie de vos moments privilégiés et vous offrir des outils pour stimuler la curiosité et l'apprentissage actif de vos enfants. Vous avez tout ce qu'il faut, et nous avons tout ce qu'il faut.<\/p>",
+            "text_style": "body"
+          }
+        },
+        "button_NjxeCb": {
+          "type": "button",
+          "settings": {
+            "button_label": "LIRE L'HISTOIRE",
+            "button_link": "shopify:\/\/pages\/histoire-de-petiscope"
+          }
+        }
+      },
+      "block_order": [
+        "caption_A6hexx",
+        "heading_eGxyHX",
+        "text_w89kKB",
+        "button_NjxeCb"
+      ],
+      "settings": {
+        "display_id": false,
+        "visibility": "always-display",
+        "image": "shopify:\/\/shop_images\/leB1.png",
+        "height": "adapt",
+        "content_layout": "no-overlap",
+        "color_scheme": "custom",
+        "section_color_scheme": "custom",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "mobile_full_media_width": true,
+        "mobile_direction": "normal",
+        "mobile_image_quanlity": "2",
+        "mobile_content_alignment": "center",
+        "padding_top": 36,
+        "padding_bottom": 36,
+        "custom_colors_background": "#ffffff",
+        "custom_gradient_background": "",
+        "custom_colors_text": "#121212",
+        "custom_colors_solid_button_background": "#608c6c",
+        "custom_colors_solid_button_text": "#ffffff",
+        "custom_colors_outline_button": "#608c6c",
+        "custom_section_colors_background": "#ffffff",
+        "custom_section_gradient_background": ""
+      }
+    }
+  },
+  "order": [
+    "image_with_text_zhiC8U",
+    "custom_liquid_QJfCAQ",
+    "image_slider_tt4b9h",
+    "trustpilot_reviews_GALfV3",
+    "icons_with_content_3TMKKw",
+    "icon_bar_MKB9DA",
+    "image_with_text_WxYWxj"
+  ]
+}
